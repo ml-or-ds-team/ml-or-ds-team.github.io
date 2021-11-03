@@ -64,7 +64,7 @@ img.rounded-corners {
     <div class="card">
       <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=150 height=150>
       <div class="container">
-        <h4>Zheng Shi</h4>
+        <h4>Andrew St. John</h4>
         <li> Data Scientist &amp; title </li>
         <li> Education </li>
 <!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
