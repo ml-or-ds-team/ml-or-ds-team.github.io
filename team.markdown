@@ -12,9 +12,8 @@ permalink: /team/
       <img src="/teampics/touxiang.jpg" alt="zs" width=150 height=150>
       <div class="container">
         <h4>Zheng Shi</h4>
-        <p class="title">Data Science Team Lead </p>
-        <li> Ph.D. Candidate &amp; M.S. Industrial Engineering @ Lehigh University </li>
-        <li> hehe </li>
+        <li> Data Science Team Lead @ IBM </li>
+        <li> Ph.D. Candidate in Industrial Engineering @ Lehigh University </li>
         <i class="fab fa-linkedin"></i>
         <i class="fas fa-home"></i>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
