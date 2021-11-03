@@ -4,7 +4,7 @@ layout: gridlay
 permalink: /team/
 ---
 
-{% for member in site.data.team_members %}
+<!-- {% for member in site.data.team_members %}
 <div class="col-sm-6 clearfix">
   <img src="/images/teampic/touxiang copy.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
@@ -18,3 +18,4 @@ permalink: /team/
   </ul>
 </div>
 {% endfor %}
+ -->
