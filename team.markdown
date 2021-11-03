@@ -12,12 +12,14 @@ permalink: /team/
       <img src="/teampics/touxiang.jpg" alt="zs" width=150 height=150>
       <div class="container">
         <h4>Zheng Shi</h4>
-        <li> Data Science Team Lead @ IBM </li>
-        <li> Ph.D. Candidate in Industrial Engineering @ Lehigh University </li>
+        <p class="title">Data Science Team Lead</p>
+        <li> Data Scientist &amp; Scientist Developer </li>
+        <li> Ph.D. Candidate in Industrial Engineering </li>
         <i class="fab fa-linkedin"></i>
         <i class="fas fa-home"></i>
+        <i class="fas fa-university"></i>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>shi.zheng.tfls@gmail.com</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
