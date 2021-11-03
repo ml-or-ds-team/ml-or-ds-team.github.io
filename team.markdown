@@ -9,8 +9,10 @@ permalink: /team/
     <div class="card">
       <img src="/teampics/touxiang.jpg" alt="zs" width=150 height=150>
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">Data Science Team Lead &amp; </p>
+        <h2>Zheng Shi</h2>
+        <p class="title">Data Science Team Lead </p>
+        <li> haha </li>
+        <li> hehe </li>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
