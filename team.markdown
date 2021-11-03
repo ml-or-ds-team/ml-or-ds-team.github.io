@@ -4,8 +4,24 @@ layout: page
 permalink: /team/
 ---
 <style>
-img {
-  border-radius: 50%;
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+img.rounded-corners {
+  border-radius: 30px;
 }
 </style>
 
