@@ -30,7 +30,7 @@ img.rounded-corners {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/teampics/touxiang.jpg" alt="zs" width=150 height=150>
+      <img src="/teampics/touxiang.jpg" class="rounded-corners" alt="zs" width=150 height=150>
       <div class="container">
         <h4>Zheng Shi</h4>
         <p class="title">Data Science Team Lead</p>
