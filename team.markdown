@@ -36,8 +36,9 @@ img.rounded-corners {
         <p class="title">Data Science Team Lead</p>
 <!--         <li> Data Scientist &amp; Scientist Developer </li>
         <li> Ph.D. Candidate in Industrial Engineering </li> -->
-        <li> <a href="https://engineering.lehigh.edu/ise/faculty/post-docs-and-phd-students"><i class="fas fa-graduation-cap"></i></a><a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> Ph.D. Candidate in Industrial Engineering </li>
-        <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>
+        <p> Data Scientist &amp; Scientist Developer <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a><\p>
+        <p> Ph.D. Candidate in Industrial Engineering <a href="https://engineering.lehigh.edu/ise/faculty/post-docs-and-phd-students"><i class="fas fa-graduation-cap"></i></a><a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> </p>
+<!--         <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> -->
         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a>
 <!--         <a href="https://engineering.lehigh.edu/ise/faculty/post-docs-and-phd-students"><i class="fas fa-graduation-cap"></i></a>
         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
