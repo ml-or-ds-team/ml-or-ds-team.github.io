@@ -7,7 +7,7 @@ permalink: /team/
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="touxiang.jpg" alt="zs" style="width:100%">
+      <img src="/teampics/touxiang.jpg" alt="zs" style="width:100%">
       <div class="container">
         <h2>Jane Doe</h2>
         <p class="title">Data Scientist &amp; Team Lead</p>
@@ -20,7 +20,7 @@ permalink: /team/
 
   <div class="column">
     <div class="card">
-      <img src="ayrton.jpg" alt="ayrton" style="width:100%">
+      <img src="/teampics/ayrton.jpg" alt="ayrton" style="width:100%">
       <div class="container">
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
@@ -33,7 +33,7 @@ permalink: /team/
 
   <div class="column">
     <div class="card">
-      <img src="andrew.jpg" alt="andrew" style="width:100%">
+      <img src="/teampics/andrew.jpg" alt="andrew" style="width:100%">
       <div class="container">
         <h2>John Doe</h2>
         <p class="title">Designer</p>
