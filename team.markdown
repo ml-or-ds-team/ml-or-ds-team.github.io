@@ -4,6 +4,8 @@ layout: page
 permalink: /team/
 ---
 
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
 <div class="row">
   <div class="column">
     <div class="card">
@@ -13,6 +15,7 @@ permalink: /team/
         <p class="title">Data Science Team Lead </p>
         <li> haha </li>
         <li> hehe </li>
+        <i class="fab fa-linkedin"></i>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
