@@ -3,6 +3,9 @@ title: Team
 layout: page
 permalink: /team/
 ---
+img {
+  border-radius: 50%;
+}
 
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
