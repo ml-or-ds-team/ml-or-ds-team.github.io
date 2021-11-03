@@ -86,7 +86,7 @@ img.rounded-corners {
         <h4>Daniel Rodriguez</h4>
         <li> Software Developer </li>
         <li> M.S. Electrical Engineering </li>
-        <a href="www.linkedin.com/in/daniel-rodriguez-17567b18a"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
         <a href="https://www.utep.edu/"><i class="fas fa-graduation-cap"></i></a>
 <!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
