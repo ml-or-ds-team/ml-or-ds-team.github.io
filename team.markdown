@@ -4,7 +4,6 @@ layout: page
 permalink: /team/
 ---
 
-<div class="col-sm-6 clearfix">
   <img src="/images/teampics/aryton.jpg" width=150 height=150 style="float: left">
   <h4>haha</h4>
   <i>adfas 
@@ -15,4 +14,3 @@ permalink: /team/
   <li> asdfasfas </li>
   <li> dafdafs </li>
   </ul>
-</div>
