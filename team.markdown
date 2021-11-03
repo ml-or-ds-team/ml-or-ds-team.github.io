@@ -17,7 +17,6 @@ permalink: /team/
   display: flex;
 }
 
-/* Create three equal columns that sits next to each other */
 .column {
   flex: 33.33%;
   padding: 5px;
