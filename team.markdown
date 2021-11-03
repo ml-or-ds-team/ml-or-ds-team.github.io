@@ -83,13 +83,13 @@ img.rounded-corners {
       <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=150 height=150>
       <div class="container">
         <h4>Paul Balcaen</h4>
-        <li> Data Scientist &amp; Global Program Planning Inventory Manager </li>
-        <li> Education </li>
-<!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
+        <li> Cognitive Supply Chain Expert </li>
+        <li> M.S. Finance and Accountancy &amp; M.S. Supply Chain & Procurement </li>
+        <a href="http://linkedin.com/in/paul-balcaen-533470"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
-<!--         <a href="https://www.uag.mx/"><i class="fas fa-graduation-cap"></i></a> -->
+        <a href="https://www.ulb.be/en"><i class="fas fa-graduation-cap"></i></a>
 <!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <a href="mailto:be06364@be.ibm.com"><i class="fas fa-envelope"></i></a>
+        <a href="mailto:paul_balcaen@yahoo.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
   </div>
