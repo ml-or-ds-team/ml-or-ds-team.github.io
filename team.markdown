@@ -13,7 +13,7 @@ permalink: /team/
       <div class="container">
         <h4>Zheng Shi</h4>
         <p class="title">Data Science Team Lead </p>
-        <li> Ph.D. Candidate &amp M.S. Industrial Engineering @ Lehigh University </li>
+        <li> Ph.D. Candidate &amp; M.S. Industrial Engineering @ Lehigh University </li>
         <li> hehe </li>
         <i class="fab fa-linkedin"></i>
         <i class="fas fa-home"></i>
