@@ -10,7 +10,7 @@ permalink: /team/
       <img src="touxiang.jpg" alt="zs" style="width:100%">
       <div class="container">
         <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
+        <p class="title">Data Scientist &amp; Team Lead</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
