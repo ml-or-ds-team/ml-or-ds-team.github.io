@@ -78,7 +78,7 @@ img.rounded-corners {
   
   <div class="column">
     <div class="card">
-      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=150 height=150>
+      <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=150 height=150>
       <div class="container">
         <h4>Paul Balcaen</h4>
         <li> Data Scientist &amp; Global Program Planning Inventory Manager </li>
