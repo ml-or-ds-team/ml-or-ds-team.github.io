@@ -15,7 +15,7 @@ permalink: /team/
         <p class="title">Data Science Team Lead</p>
         <li> Data Scientist &amp; Scientist Developer </li>
         <li> Ph.D. Candidate in Industrial Engineering </li>
-        <i class="fab fa-linkedin"></i>
+        <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>
         <i class="fas fa-home"></i>
         <i class="fas fa-university"></i>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
