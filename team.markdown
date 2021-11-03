@@ -5,9 +5,9 @@ permalink: /team/
 ---
 
 <div class="col-sm-6 clearfix">
-  <img src="/images/teampic/aryton.jpg" class="img-responsive" width="25%" style="float: left" >
+  <img src="/images/teampic/aryton.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>haha</h4>
-  <i>adfas <!--<br>email: <{{ member.email }}></i> -->
+  <i>adfas 
   <ul style="overflow: hidden">
     
   <li> dafadsfsd </li>
