@@ -16,6 +16,7 @@ permalink: /team/
         <li> haha </li>
         <li> hehe </li>
         <i class="fab fa-linkedin"></i>
+        <i class="fas fa-home"></i>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
