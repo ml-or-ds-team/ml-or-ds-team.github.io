@@ -6,7 +6,7 @@ permalink: /team/
 
 {% for member in site.data.team_members %}
 <div class="col-sm-6 clearfix">
-  <img src="/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="/images/teampic/touxiang copy.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
