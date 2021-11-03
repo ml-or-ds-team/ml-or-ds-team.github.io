@@ -1,6 +1,6 @@
 ---
 title: Team
-layout: gridlay
+layout: page
 permalink: /team/
 ---
 
