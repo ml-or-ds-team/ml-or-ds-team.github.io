@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to the website!"
 date:   2021-11-03 18:26 -0400
-categories: jekyll update
+categories: news
 ---
 We are pleased to annouce the launch of our team website at <a href="https://ml-or-ds-team.github.io/">ml-or-ds-team.github.io/</a>. As a data science team, we would love to share our works, talks and ideas via articles, video &amp; audio, etc on this website. 
 
