@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Archive: Zheng Shi gave talk on deep learning and optimization at various venues"
+date:   2021-11-04 17:26 -0400
+categories: archive
+---
+
+<style>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+<b>Zheng Shi</b> presented his papers @ International Conference on Machine Learning and Applications, AIChE Annual Meeting, and Informs Annual Meeting.
+
+<div class="row">
+  <div class="column">
+    <img src="/blogpics/iclma_talk.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/blogpics/aiche_talk.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/blogpics/informs_talk.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
