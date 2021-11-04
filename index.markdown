@@ -17,7 +17,7 @@ img {
 
 <img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" class="img-responsive" alt="ts" style="width:50%;">
 
-<h4>Machine Learning and Optimization - Data Science Team
+<h2>Machine Learning and Optimization - Data Science Team</h2>
   
 
 <p>We are a group of engineers and scientists that share the same interest in Data Science. We are data scientists, software developers, subject matter experts, hardware developers, and test engineers. </p>
