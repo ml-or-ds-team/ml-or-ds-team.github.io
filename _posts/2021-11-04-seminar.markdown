@@ -4,7 +4,14 @@ title:  "Data Science Seminar Series - 11/4/2021"
 date:   2021-11-04 12:15 -0400
 categories: seminar series
 ---
-
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
 Today, we had our speaker Ayrton Didhier Mondragon <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> <a href="https://www.uag.mx/"><i class="fas fa-graduation-cap"></i></a> <a href="mailto:ayrton.mondragon1@ibm.com"><i class="fas fa-envelope"></i></a> present a technical review on one of our machine learning projects to the audience at IBM.
@@ -16,4 +23,4 @@ In this talk, the speaker presented the business problem and how the team was ab
 - Develop feature engineering and algorithm 
 - Analyze the result and deliver the solution
 
- <img src="/blogpics/post-11-04:2021.jpg" class="img-responsive" alt="am" width=50%>
+ <img src="/blogpics/post-11-04:2021.jpg" class="img-responsive" alt="" style="width:50%;">
