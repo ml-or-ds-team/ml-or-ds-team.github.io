@@ -16,4 +16,4 @@ In this talk, the speaker presented the business problem and how the team was ab
 - Develop feature engineering and algorithm 
 - Analyze the result and deliver the solution
 
- <img src="/blogpics/post-11-04:2021.jpg" class="img-responsive" alt="am" width=150 height=150>
+ <img src="/blogpics/post-11-04:2021.jpg" class="img-responsive" alt="am" width=100%>
