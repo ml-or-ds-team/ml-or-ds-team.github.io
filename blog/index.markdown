@@ -1,5 +1,6 @@
 ---
-title: Blog
+# This file is at `./blog/index.md`
+
 layout: home
-permalink: /blog/
+title: Blog
 ---
