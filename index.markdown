@@ -18,5 +18,5 @@ img {
 <h2>Machine Learning (ML) and Operations Research (OR) - Data Science Team</h2>
   
 <img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" id="hp" alt="" width="150">
-<p>We are a group of engineers and scientists that share the same interest in Data Science. We are data scientists, software developers, subject matter experts, business planning managers, hardware developers, and test engineers. </p>
+<p>We are a group of engineers and scientists that share the same interest in Data Science. We are data scientists, software developers, subject matter experts, business planning managers, hardware developers, and systems engineers. </p>
 
