@@ -35,9 +35,10 @@ theme: minima
 plugins:
   - jekyll-feed
   
-# header_pages:
-# - about.markdown
-# - team.markdown
+header_pages:
+- about.markdown
+- team.markdown
+- blog.markdown
   
  
 
