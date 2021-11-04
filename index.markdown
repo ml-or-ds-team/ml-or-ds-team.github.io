@@ -3,11 +3,10 @@ layout: page
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.centerImage
+{
+ text-align:center;
+ display:block;
 }
 img {
   border: 2px solid #555;
@@ -15,7 +14,7 @@ img {
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
-<img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" class="img-responsive" alt="ts" style="width:30%;">
+<img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" class="centerImage" alt="ts" style="width:30%;">
 
 <h2>Machine Learning (ML) and Operations Research (OR) - Data Science Team</h2>
   
