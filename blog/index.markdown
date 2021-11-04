@@ -1,4 +1,4 @@
 ---
 layout: home
-title: News &amp; Blog
+title: News & Blog
 ---
