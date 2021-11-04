@@ -20,8 +20,9 @@
 
 domain: ml-or-ds-team.github.io
 url: https://ml-or-ds-team.github.io
-title: ML-OR-DS 
-# email: your-email@example.com
+title: MLOR Data Science Team  
+author: "Machine Learning & Operations Research"
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A dedicated Data Science team in Machine Learning and Optimization.
 baseurl: "/about" # the subpath of your site, e.g. /blog
@@ -33,6 +34,10 @@ baseurl: "/about" # the subpath of your site, e.g. /blog
 theme: minima
 plugins:
   - jekyll-feed
+  
+header_pages:
+- about.markdown
+- team.markdown
   
  
 
