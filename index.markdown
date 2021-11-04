@@ -14,7 +14,7 @@ img {
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
-<img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" class="centerImage" alt="ts" width="150">
+<img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" class="centerImage" alt="" width="150">
 
 <h2>Machine Learning (ML) and Operations Research (OR) - Data Science Team</h2>
   
