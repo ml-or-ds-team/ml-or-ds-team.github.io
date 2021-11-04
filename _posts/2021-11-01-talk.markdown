@@ -2,7 +2,7 @@
 layout: post
 title:  "Archive: Ayrton Didhier Mondragon at IBM AI Week"
 date:   2021-11-01 12:15 -0400
-categories: seminar_series
+categories: archive_talk
 ---
 <style>
 .center {
