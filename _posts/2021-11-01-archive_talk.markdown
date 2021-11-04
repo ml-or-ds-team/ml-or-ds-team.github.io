@@ -19,4 +19,4 @@ img {
 
 <b>Ayrton Didhier Mondragon</b> <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> <a href="https://www.uag.mx/"><i class="fas fa-graduation-cap"></i></a> <a href="mailto:ayrton.mondragon1@ibm.com"><i class="fas fa-envelope"></i></a> gave a talk at IBM AI Week on "day to day Artificial Intelligence". 
 
- <img src="/blogpics/ayrton_ai_week.jpg" alt="" style="width:80%;">
+ <img src="/blogpics/ai_week.jpg" alt="" style="width:80%;">
