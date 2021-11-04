@@ -27,13 +27,14 @@ categories: archive
 
 <div class="row">
   <div class="column">
-    <img src="/blogpics/iclma_talk.jpg" alt="Snow" style="width:100%">
-    <a href="https://www.youtube.com/watch?v=btsBizwcIPw&t=5s"><i class="fab fa-youtube"></i></a>
+    <img src="/blogpics/iclma_talk.jpg" alt="icmla" style="width:100%">
+    <a href="https://www.youtube.com/watch?v=btsBizwcIPw"><i class="fab fa-youtube fa-2x"></i></a>
   </div>
   <div class="column">
-    <img src="/blogpics/aiche_talk.jpg" alt="Forest" style="width:100%">
+    <img src="/blogpics/aiche_talk.jpg" alt="aiche" style="width:100%">
+    <a href="https://www.youtube.com/watch?v=nYoJZNUwxdU"><i class="fab fa-youtube fa-2x"></i></a>
   </div>
   <div class="column">
-    <img src="/blogpics/informs_talk.jpg" alt="Mountains" style="width:100%">
+    <img src="/blogpics/informs_talk.jpg" alt="informs" style="width:100%">
   </div>
 </div>
