@@ -34,11 +34,11 @@ img.rounded-corners {
       <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=150 height=150>
       <div class="container">
         <h4>Andrew St. John</h4>
-        <li> Data Scientist &amp; title </li>
-        <li> Education </li>
+        <li> Data Scientist </li>
+        <li> B.Sc. Neuroscience </li>
 <!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
-<!--         <a href="https://www.uag.mx/"><i class="fas fa-graduation-cap"></i></a> -->
+        <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a>
 <!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
         <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
