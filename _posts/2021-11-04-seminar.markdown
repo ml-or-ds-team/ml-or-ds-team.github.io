@@ -11,6 +11,9 @@ categories: seminar series
   margin-right: auto;
   width: 50%;
 }
+img {
+  border: 2px solid #555;
+}
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
