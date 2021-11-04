@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# This file is at `./index.md`
 
 layout: page
+title: Landing Page
 ---
-
-We are in restless construction!!!
