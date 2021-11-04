@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Archive: Zheng Shi gave talk on deep learning and optimization at various venues"
-date:   2021-11-04 17:26 -0400
+date:   2020-12-02 17:26 -0400
 categories: archive
 ---
 
