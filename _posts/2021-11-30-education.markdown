@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MLOR Team is creating IBM Machine Learning Specialist Certification Exam."
+title:  "MLOR Team is creating IBM Machine Learning Certification Exam."
 date:   2021-11-30 15:15 -0400
 categories: outreach
 ---
