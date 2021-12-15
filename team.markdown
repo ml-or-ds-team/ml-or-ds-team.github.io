@@ -65,7 +65,7 @@ img.rounded-corners {
 
 <div class="column">
     <div class="card">
-      <img src="/teampics/ayrton.jpg" class="rounded-corners" alt="am" width=150 height=150>
+      <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=150 height=150>
       <div class="container">
         <h4>Ayrton Didhier Mondragon</h4>
         <li> Senior Data Scientist &amp; Test Engineering Team Lead</li>
