@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Data Science Seminar Series - 12/16/2021"
+date:   2021-12-16 12:15 -0400
+categories: seminar_series
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+Today, we had our speaker <b>Andrew St. John</b> <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a> <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a> give a talk on <b>the role of data analytics in data science project</b>.
+
+<img src="/blogpics/seminar_12_16_2021.jpg" alt="" style="width:80%;">
+
+{% highlight ruby %} 
+- Visualized business problem, and potential use cases
+- Demonstrated visualization using Matplotlib and Seaborn
+- Used visualization to explore key metrics like feature scores, correlation and the distribution of our results
+- Used visualization to compare key metrics between iterations and different groups within our dataset
+{% endhighlight %}
+
+ 
