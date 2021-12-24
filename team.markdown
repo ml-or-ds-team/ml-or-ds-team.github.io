@@ -21,7 +21,7 @@ permalink: /team/
   display: table;
 }
 img.rounded-corners {
-  border-radius: 30px;
+  border-radius: 10px;
 }
 </style>
 
@@ -31,7 +31,7 @@ img.rounded-corners {
  <div class="row">
 <div class="column">
     <div class="card">
-      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=70 height=70>
+      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=75 height=70>
       <div class="container">
         <h4>Andrew St. John</h4>
         <li> Data Scientist </li>
@@ -81,7 +81,7 @@ img.rounded-corners {
 
 <div class="column">
     <div class="card">
-      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=70 height=70>
+      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=72 height=70>
       <div class="container">
         <h4>Daniel Rodriguez</h4>
         <li> Software Developer </li>
