@@ -124,7 +124,7 @@ img.rounded-corners {
       <img src="/teampics/sz_2.jpg" class="rounded-corners" alt="zs" width=75 height=70>
       <div class="container">
         <h4>Zheng Shi</h4>
-        <li> Data Science Team Lead</li>
+        <li> Team Lead</li>
         <li> Ph.D. Candidate in Machine Learning and Optimization </li>
         <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>
         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a>
