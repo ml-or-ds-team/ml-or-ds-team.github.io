@@ -68,7 +68,7 @@ img.rounded-corners {
       <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Ayrton Didhier Mondragon</h4>
-        <li> Senior Data Scientist &amp; Test Engineering Team Lead</li>
+        <li> Senior Data Scientist</li>
         <li> M.Eng. Information Technologies and Communications </li>
         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
