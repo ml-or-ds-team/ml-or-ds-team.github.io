@@ -31,7 +31,7 @@ img.rounded-corners {
  <div class="row">
 <div class="column">
     <div class="card">
-      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=150 height=150>
+      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=50 height=50>
       <div class="container">
         <h4>Andrew St. John</h4>
         <li> Data Scientist </li>
@@ -47,7 +47,7 @@ img.rounded-corners {
 
   <div class="column">
     <div class="card">
-      <img src="/teampics/arvind.jpg" class="rounded-corners" alt="am" width=150 height=150>
+      <img src="/teampics/arvind.jpg" class="rounded-corners" alt="am" width=50 height=50>
       <div class="container">
         <h4>Arvind Betrabet</h4>
         <li> Data Scientist </li>
@@ -65,7 +65,7 @@ img.rounded-corners {
 
 <div class="column">
     <div class="card">
-      <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=150 height=150>
+      <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=50 height=50>
       <div class="container">
         <h4>Ayrton Didhier Mondragon</h4>
         <li> Senior Data Scientist &amp; Test Engineering Team Lead</li>
@@ -81,7 +81,7 @@ img.rounded-corners {
 
 <div class="column">
     <div class="card">
-      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=150 height=150>
+      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=50 height=50>
       <div class="container">
         <h4>Daniel Rodriguez</h4>
         <li> Software Developer </li>
@@ -103,7 +103,7 @@ img.rounded-corners {
   
   <div class="column">
     <div class="card">
-      <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=150 height=150>
+      <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=50 height=50>
       <div class="container">
         <h4>Paul Balcaen</h4>
         <li> Cognitive Supply Chain Expert </li>
@@ -121,7 +121,7 @@ img.rounded-corners {
 
   <div class="column">
     <div class="card">
-      <img src="/teampics/touxiang.jpg" class="rounded-corners" alt="zs" width=150 height=150>
+      <img src="/teampics/touxiang.jpg" class="rounded-corners" alt="zs" width=50 height=50>
       <div class="container">
         <h4>Zheng Shi</h4>
         <li> Data Science Team Lead</li>
