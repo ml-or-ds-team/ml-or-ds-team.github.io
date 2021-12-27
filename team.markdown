@@ -121,7 +121,7 @@ img.rounded-corners {
 
   <div class="column">
     <div class="card">
-      <img src="/teampics/sz_2.jpg" class="rounded-corners" alt="zs" width=80 height=70>
+      <img src="/teampics/new_touxiang.png" class="rounded-corners" alt="zs" width=70 height=70>
       <div class="container">
         <h4>Zheng Shi</h4>
         <li> Team Lead</li>
