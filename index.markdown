@@ -26,4 +26,4 @@ img {
 <p><a href='https://ml-or-ds-team.github.io/blog/'>News & Blog Update</a><p>
 <p><h3 style="color:Tomato;">Jan 20, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/01/20/news.html'>Our paper was accepted at ICLR 2022!</a></h3></p>
 <p><h3 style="color:Tomato;">Dec 16, 2021. <a href="https://ml-or-ds-team.github.io/seminar_series/2021/12/16/seminar.html">Data Science Seminar Series</a></h3></p>
-<p><h3 style="color:Tomato;">Nov 30, 2021. <a href="https://ml-or-ds-team.github.io/outreach/2021/11/30/education.html">MLOR Team is creating IBM ML certification exam.</h3></p>
+<p><h3 style="color:Tomato;">Nov 30, 2021. <a href="https://ml-or-ds-team.github.io/outreach/2021/11/30/education.html">MLOR Team is creating IBM ML certification exam.</a></h3></p>
