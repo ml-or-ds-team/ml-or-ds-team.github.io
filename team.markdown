@@ -103,7 +103,7 @@ img.rounded-corners {
   
    <div class="column">
     <div class="card">
-      <img src="/teampics/mark.jpg" class="rounded-corners" alt="am" width=70 height=70>
+      <img src="/teampics/mark.jpg" class="rounded-corners" alt="am" width=50 height=70>
       <div class="container">
         <h4>Mark Booth</h4>
         <li> Mentor $amp; Tech Lead </li>
