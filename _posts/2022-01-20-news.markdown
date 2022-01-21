@@ -21,7 +21,9 @@ We are pleased to annouce that one of the co-authored papers from <b>Zheng Shi</
 
 {% highlight ruby %} 
 Zheng Shi and his co-authors proposed a novel algorithm - "OASIS". 
-- to solve machine learning problem as well as deep neural networks with guaranteed convergence!
+- to solve machine learning problem as well as Deep Neural Networks 
+- with guaranteed convergence and strong empirical performance!
+- "OASIS" is adaptive with minimum tuning!
 {% endhighlight %}
 
 Check out the paper <a href="https://arxiv.org/abs/2109.05198">here</a>!!!
