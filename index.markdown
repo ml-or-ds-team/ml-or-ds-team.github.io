@@ -20,3 +20,13 @@ img {
 <img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" id="hp" alt="" width="150">
 <p>We are a group of engineers and scientists that share the same interest in Data Science. We are data scientists, software developers, subject matter experts, business planning managers, hardware developers, and systems engineers. </p>
 
+
+
+
+<a href='https://ml-or-ds-team.github.io/blog/'>News & Blog Update</a>
+
+<h3 style="color:Tomato;">Jan 20, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/01/20/news.html'>Our paper was accepted at ICLR 2022!</a>
+ 
+Dec 16, 2021. <a href="https://ml-or-ds-team.github.io/seminar_series/2021/12/16/seminar.html">Data Science Seminar Series</a>
+ 
+Nov 30, 2021. <a href="https://ml-or-ds-team.github.io/outreach/2021/11/30/education.html">MLOR Team is creating IBM ML certification exam.</h3>
