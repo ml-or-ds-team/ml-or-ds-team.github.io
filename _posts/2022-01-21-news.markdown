@@ -22,4 +22,4 @@ img {
 We are very excited to annouce that Mark Booth <a href="https://www.linkedin.com/in/mark-booth-a1844b41"><i class="fab fa-linkedin"></i></a> is now serving as an advisor and mentor of the team. Mark is a true entrepreneur with over 30 years of experience leading innovation and making success at IBM.
 Mark has a track record of successful business. We are delighted to team up with such a great mind and looking forward to making a greater success!
 
-Welcome Mark!
+Welcome!
