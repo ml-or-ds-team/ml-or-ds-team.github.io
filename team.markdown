@@ -106,7 +106,7 @@ img.rounded-corners {
       <img src="/teampics/mark.jpg" class="rounded-corners" alt="am" width=50 height=70>
       <div class="container">
         <h4>Mark Booth</h4>
-        <li> Mentor &amp; Tech Lead </li>
+        <li> Mentor &amp; Advisor </li>
         <li> M.S. Industrial Engineering </li>
         <a href="https://www.linkedin.com/in/mark-booth-a1844b41"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
