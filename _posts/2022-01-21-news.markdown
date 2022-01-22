@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Data Science Seminar Series - 12/16/2021"
+date:   2022-01-22 12:15 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+We are very excited to annouce that Mark Booth <a href="https://www.linkedin.com/in/mark-booth-a1844b41"><i class="fab fa-linkedin"></i></a> is now serving as an advisor and mentor of the team. Mark is a true entrepreneur with over 30 years of experience leading innovation and making success at IBM.
+Mark has a track record of successful business. We are delighted to team up with such a great mind and looking forward to making greater success!
+
+Welcome Mark!
