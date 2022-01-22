@@ -17,7 +17,7 @@ img {
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
-Ayrton Didhier Mondragon, Andrew St. Johns and Zheng Shi are identified by IBM Expert Lab as Subject Matter Experts in the field of machine learning and data science, 
-and they are invited (along with 12 other experts in IBM) to participate in creating the exam to certify machine learning specialists at the quality of an industry standard. The certification will be released 
-next year and open to the general public. 
+<p><b>Ayrton Didhier Mondragon</b> <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a>, Andrew St. Johns</b> <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a> and <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a><a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> are invited by <b>IBM Expert Lab</b> as Subject Matter Experts in the field of machine learning and data science, along with other 12 experts:
+
+<p>To create the exam of certifying machine learning specialists. The certification will be released early 2022 and available to general public. <.b>
 
