@@ -19,7 +19,7 @@ img {
 
 We are pleased to annouce that one of the papers <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a><a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> co-authored was accepted for presentation at <b>International Conference on Learning Representations (ICLR) 2022</b>. It is a joint work with <b>Majid Jahani, Sergey Rusakov, Peter Richtárik, Michael W. Mahoney, and Martin Takáč</b>.
 {% highlight ruby %} 
-In this paper, they proposed a novel algorithm - "OASIS". 
+In this paper, they propose a novel algorithm - "OASIS". 
 - to solve machine learning problem as well as Deep Neural Networks 
 - with guaranteed convergence and strong empirical performance!
 - "OASIS" is adaptive with minimum tuning!
