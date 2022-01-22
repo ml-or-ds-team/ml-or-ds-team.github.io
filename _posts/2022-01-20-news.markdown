@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "One paper was accepted by ICLR 2022!"
-date:   2022-01-20 19:57 -0400
+date:   2022-01-21 19:57 -0400
 categories: news
 ---
 <style>
