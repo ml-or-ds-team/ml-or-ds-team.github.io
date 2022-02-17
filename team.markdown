@@ -116,24 +116,7 @@ img.rounded-corners {
       </div>
     </div>
   </div>
-  
-<!--   <div class="column">
-    <div class="card">
-      <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=70 height=70>
-      <div class="container">
-        <h4>Paul Balcaen</h4>
-        <li> Cognitive Supply Chain Expert </li>
-        <li> M.S. Finance and Accountancy &amp; M.S. Supply Chain & Procurement </li>
-        <a href="http://linkedin.com/in/paul-balcaen-533470"><i class="fab fa-linkedin"></i></a>
-<!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
-        <a href="https://www.ulb.be/en"><i class="fas fa-graduation-cap"></i></a>
-<!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <a href="mailto:paul_balcaen@yahoo.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
-  </div> -->
-
-  
+ 
 
   <div class="column">
     <div class="card">
