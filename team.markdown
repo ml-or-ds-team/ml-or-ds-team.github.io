@@ -117,7 +117,7 @@ img.rounded-corners {
     </div>
   </div>
   
-  <div class="column">
+<!--   <div class="column">
     <div class="card">
       <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
@@ -131,7 +131,7 @@ img.rounded-corners {
         <a href="mailto:paul_balcaen@yahoo.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
-  </div>
+  </div> -->
 
   
 
