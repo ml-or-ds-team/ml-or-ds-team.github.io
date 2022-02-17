@@ -34,7 +34,7 @@ img.rounded-corners {
       <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=75 height=70>
       <div class="container">
         <h4>Andrew St. John</h4>
-        <li> Data Scientist </li>
+        <li> Analytics Lead </li>
         <li> B.S. Neuroscience </li>
 <!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
@@ -50,7 +50,7 @@ img.rounded-corners {
       <img src="/teampics/arvind.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Arvind Betrabet</h4>
-        <li> Data Scientist </li>
+        <li> Senior Data Scientist </li>
         <li> Ph.D. Electrical Engineering </li>
         <a href="https://www.linkedin.com/in/arvind-betrabet-phd-68b03a1/"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
@@ -68,7 +68,7 @@ img.rounded-corners {
       <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Ayrton Didhier Mondragon</h4>
-        <li> Senior Data Scientist</li>
+        <li> ML Engineering Lead</li>
         <li> M.Eng. Information Technologies and Communications </li>
         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
@@ -79,24 +79,7 @@ img.rounded-corners {
     </div>
   </div>
 
-<div class="column">
-    <div class="card">
-      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=72 height=70>
-      <div class="container">
-        <h4>Daniel Rodriguez</h4>
-        <li> Software Developer </li>
-        <li> M.S. Electrical Engineering </li>
-        <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a>
-<!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
-        <a href="https://www.utep.edu/"><i class="fas fa-graduation-cap"></i></a>
-<!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <a href="mailto:danirg.id25@gmail.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
-  </div> 
-  
-  
-  
+   
 </div>
 
 <div class="row">
