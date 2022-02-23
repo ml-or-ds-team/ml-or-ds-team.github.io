@@ -25,8 +25,9 @@ img.rounded-corners {
 }
   
 li {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: bold;
  }
 
 </style>
