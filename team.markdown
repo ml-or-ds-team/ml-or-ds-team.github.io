@@ -23,6 +23,12 @@ permalink: /team/
 img.rounded-corners {
   border-radius: 10px;
 }
+  
+li {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+ }
+
 </style>
 
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
