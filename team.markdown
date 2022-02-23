@@ -29,14 +29,22 @@ h1 {
   font-color: 
 }
   
+h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+ }
+  
 li {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: normal;
  }
 
-background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 94%);
+body {
+background-color: rgb(238,174,202);
+background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 94%);
+}
   
 </style>
 
@@ -45,7 +53,6 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 
 
 <h1>MLOR Team</h1>
 <hr>
-<br/>
 <br/>
  <div class="row">
 <div class="column">
