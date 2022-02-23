@@ -83,6 +83,10 @@ img.rounded-corners {
     </div>
   </div>
   
+ </div>
+ 
+ <div class="row">
+  
   <div class="column">
     <div class="card">
       <img src="/teampics/new_touxiang.png" class="rounded-corners" alt="zs" width=75 height=75>
@@ -99,11 +103,6 @@ img.rounded-corners {
       </div>
     </div>
   </div>
-
-   
-</div>
-
-<div class="row">
   
    <div class="column">
     <div class="card">
