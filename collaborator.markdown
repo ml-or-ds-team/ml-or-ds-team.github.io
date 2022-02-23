@@ -78,6 +78,19 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
  </div>
  </div>
 
+
+  <div class="column">
+    <div class="card">
+      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=75 height=70>
+      <div class="container">
+        <h4>Daniel Rodriguez</h4>
+        <li> Software Engineer </li>
+        <li> M.S. Electrical Engineering </li>
+      </div>
+    </div>
+ </div>
+ </div>
+
 <br/>
 <hr>
 <br/>
