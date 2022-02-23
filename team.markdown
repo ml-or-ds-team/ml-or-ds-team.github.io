@@ -24,12 +24,20 @@ img.rounded-corners {
   border-radius: 10px;
 }
   
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-color: 
+}
+  
 li {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
   font-weight: bold;
  }
 
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 94%);
+  
 </style>
 
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
