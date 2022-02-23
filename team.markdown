@@ -10,7 +10,7 @@ permalink: /team/
 
 .column {
   float: left;
-  width: 33%;
+  width: 40%;
   padding: 30px;
 }
 
@@ -31,7 +31,7 @@ h1 {
   
 h4 {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: normal;
  }
   
@@ -42,8 +42,8 @@ li {
  }
 
 body {
-background-color: rgb(238,174,202);
-background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 94%);
+background-color: rgb(241,236,238);
+background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,196,1) 75%);
 }
   
 </style>
