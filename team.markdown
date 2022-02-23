@@ -10,8 +10,8 @@ permalink: /team/
 
 .column {
   float: left;
-  width: 33%;
-  padding: 5px;
+  width: 30%;
+  padding: 20px;
 }
 
 /* Clearfix (clear floats) */
@@ -92,7 +92,7 @@ img.rounded-corners {
       <img src="/teampics/new_touxiang.png" class="rounded-corners" alt="zs" width=75 height=75>
       <div class="container">
         <h4>Zheng Shi</h4>
-        <li> Team Lead</li>
+        <li> MLOR Team Lead</li>
         <li> Ph.D. Candidate in Machine Learning and Optimization </li>
         <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>
         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a>
