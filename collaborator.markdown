@@ -10,7 +10,7 @@ permalink: /collaborator/
 
 .column {
   float: left;
-  width: 25%;
+  width: 33%;
   padding: 5px;
 }
 
@@ -28,6 +28,8 @@ img.rounded-corners {
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+<h1>SME</h1>
+<section>
  <div class="row">
 <div class="column">
     <div class="card">
@@ -44,6 +46,7 @@ img.rounded-corners {
       </div>
     </div>
   </div>
+ </div>
 
   <div class="column">
     <div class="card">
