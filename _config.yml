@@ -42,6 +42,11 @@ header_pages:
 - blog/index.markdown
 - team.markdown
 - collaborator.markdown
+
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
   
  
 
