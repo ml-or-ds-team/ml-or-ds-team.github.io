@@ -41,6 +41,7 @@ minima:
 header_pages:
 - team.markdown
 - blog/index.markdown
+- collaborator.markdown
   
  
 
