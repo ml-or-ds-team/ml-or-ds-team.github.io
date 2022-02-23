@@ -44,7 +44,7 @@ header_pages:
 - collaborator.markdown
 
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: false
   collections: false
   
