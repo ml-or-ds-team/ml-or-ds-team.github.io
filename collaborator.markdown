@@ -51,8 +51,11 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<h1>Collaborator</h1>
-<div class="column">
+<h1>Collaboration &amp; Mentorship </h1>
+<hr>
+<br/>
+<div class='row'>
+ <div class="column">
     <div class="card">
       <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=75 height=70>
       <div class="container">
@@ -66,9 +69,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
-</div>
+ </div>
 
-<div class="column">
+ <div class="column">
     <div class="card">
       <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=75 height=70>
       <div class="container">
@@ -82,27 +85,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
-</div>
+ </div>
+ </div>
 
 <br/>
 <hr>
 <br/>
-
-<h1>Mentoring and Choaching</h1>
-<div class="column">
-    <div class="card">
-      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=75 height=70>
-      <div class="container">
-        <h4>Andrew St. John</h4>
-        <li> Analytics Lead </li>
-        <li> B.S. Neuroscience </li>
-<!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
-<!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
-        <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a>
-<!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
-</div>
-
- 
