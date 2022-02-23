@@ -30,6 +30,8 @@ img.rounded-corners {
 
 <h1>MLOR Team</h1>
 <hr>
+<br/>
+<br/>
  <div class="row">
 <div class="column">
     <div class="card">
@@ -100,7 +102,7 @@ img.rounded-corners {
 
    
 </div>
-<hr>
+
 <div class="row">
   
    <div class="column">
@@ -123,3 +125,5 @@ img.rounded-corners {
   
 
 </div>
+<br/>
+<br/>
