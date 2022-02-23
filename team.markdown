@@ -60,8 +60,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=75 height=70>
       <div class="container">
         <h4>Andrew St. John</h4>
-        <p> Analytics Lead </p>
-        <p> B.S. Neuroscience </p>
+        <li> Analytics Lead </li>
+        <li> B.S. Neuroscience </li>
 <!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
         <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a>
@@ -94,8 +94,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Ayrton Didhier Mondragon</h4>
-        <p> ML Engineering Lead</p>
-        <p> M.Eng. Information Technologies and Communications </p>
+        <li> ML Engineering Lead</li>
+        <li> M.Eng. Information Technologies and Communications </li>
         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
         <a href="https://www.uag.mx/"><i class="fas fa-graduation-cap"></i></a>
