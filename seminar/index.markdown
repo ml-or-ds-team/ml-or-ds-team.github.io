@@ -1,5 +1,5 @@
 ---
-layout: seminar_home
+layout: home
 title: Seminars
 ---
 
