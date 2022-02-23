@@ -10,7 +10,7 @@ permalink: /team/
 
 .column {
   float: left;
-  width: 40%;
+  width: 30%;
   padding: 30px;
 }
 
