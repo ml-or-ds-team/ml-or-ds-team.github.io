@@ -28,6 +28,8 @@ img.rounded-corners {
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+<h1>MLOR Team</h1>
+<hr>
  <div class="row">
 <div class="column">
     <div class="card">
@@ -98,7 +100,7 @@ img.rounded-corners {
 
    
 </div>
-
+<hr>
 <div class="row">
   
    <div class="column">
