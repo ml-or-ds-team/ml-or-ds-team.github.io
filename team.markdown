@@ -127,3 +127,4 @@ img.rounded-corners {
 </div>
 <br/>
 <br/>
+<hr>
