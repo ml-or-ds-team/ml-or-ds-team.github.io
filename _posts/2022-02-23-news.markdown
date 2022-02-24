@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jina Lee is joining the team as Machine Learning Engineer."
+title:  "Jina Lee joined the team as Machine Learning Engineer."
 date:   2022-02-23 12:00 -0400
 categories: news
 ---
@@ -19,8 +19,8 @@ img {
 
 <img src="/teampics/jina.jpg" class="rounded-corners" alt="am" width=90 height=125>
 
-We are very excited to annouce that <b>Jina Lee</b> <a href="https://www.linkedin.com/in/jina-lee-513a6119a"><i class="fab fa-linkedin"></i></a> joins our team as data scientist and prospective machine learning engineer. Jina earned her Master degree in Data Science at Indiana University Bloomington in May 2021, and she is currently working at Watson Health as Data Management Consultant. 
+We are very excited to annouce that <b>Jina Lee</b> <a href="https://www.linkedin.com/in/jina-lee-513a6119a"><i class="fab fa-linkedin"></i></a> joined the team as data scientist and prospective machine learning engineer. Jina earned her Master degree in Data Science at Indiana University Bloomington in May 2021, and she is currently working at Watson Health as Data Management Consultant. 
 
-Jina will work closely with her mentor <b>Ayrton Didhier Mondragon</b> <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> and the rest of the team to push forward our capability in Data Science field.
+Jina will work closely with her mentor <b>Ayrton Didhier Mondragon</b> <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> and the rest of the team to push forward our capability in the Data Science field.
 
 Welcome, Jina!
