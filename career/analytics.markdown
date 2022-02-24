@@ -1,0 +1,31 @@
+---
+title: Join Us
+layout: page
+permalink: /join-us/join-as-analytics/
+---
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#hp  {
+float: left;    
+ margin: 0 15px 0 0;
+}
+img {
+  border: 2px solid #555;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+body {
+background-color: rgb(241,236,238);
+background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,196,1) 75%);
+}
