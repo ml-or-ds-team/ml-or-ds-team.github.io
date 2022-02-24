@@ -51,7 +51,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<h1>Collaboration &amp; Mentorship </h1>
+<h1>MLOR Mentorship &amp; Partners </h1>
 <hr>
 <br/>
 <div class='row'>
