@@ -10,8 +10,8 @@ permalink: /group/
 
 .column {
   float: left;
-  width: 33%;
-  padding: 30px;
+  width: 40%;
+  padding: 20px;
 }
 
 /* Clearfix (clear floats) */
