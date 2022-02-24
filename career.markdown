@@ -1,7 +1,7 @@
 ---
 title: Join Us
 layout: page
-permalink: /join-us/
+permalink: /career/
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -41,10 +41,10 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
   
 <p>We are looking for the following roles:</p>  
 <br/>
-<h3><a href="https://ml-or-ds-team.github.io/join-as-mle.html">Data Scientist - Machine Learning Engineering</a></h3>
+<h3><a href="https://ml-or-ds-team.github.io/career/join-as-mle.html">Data Scientist - Machine Learning Engineering</a></h3>
 <hr>
 <br/>
-<h3><a href='https://ml-or-ds-team.github.io/join-as-analytics.html'>Data Scientist - Analytics</a></h3>
+<h3><a href='https://ml-or-ds-team.github.io/career/join-as-analytics.html'>Data Scientist - Analytics</a></h3>
 <hr>
 <br/>
 <p></p> For the above roles, we are also open to bring you in as mentee and provide you mentorship if you are interested. As a mentee of MLOR, you will have a designated mentor, and we expect to work with you on real stuff every day. 
