@@ -26,8 +26,10 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <p><img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" id="hp" alt="" width="150"></p>
 <p>We are a group of engineers and scientists that share the same interest in Data Science. We are data scientists, software developers, subject matter experts, business planning managers, hardware developers, and systems engineers. </p>
 
-
-
+<hr>
+<br/>
+<br/>
+<br/>
 <p><a href='https://ml-or-ds-team.github.io/blog/'>News & Blog Update</a><p>
 <p></p>
 <p><h3 style="color:Tomato;">Feb 23, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/02/23/news.html'>Jina Lee joined the team as Machine Learning Engineer.</a></h3></p>
