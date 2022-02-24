@@ -10,7 +10,7 @@ permalink: /group/
 
 .column {
   float: left;
-  width: 40%;
+  width: 35%;
   padding: 20px;
 }
 
