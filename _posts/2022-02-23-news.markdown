@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jina Lee is joining the team as Machine Learning Engineer."
-date:   2022-01-21 12:00 -0400
+date:   2022-02-23 12:00 -0400
 categories: news
 ---
 <style>
