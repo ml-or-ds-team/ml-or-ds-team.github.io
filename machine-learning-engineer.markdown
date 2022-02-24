@@ -1,6 +1,7 @@
 ---
 title: Join Us
 layout: page
+premalink: join-us/join-as-mle/
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
