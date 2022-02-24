@@ -55,6 +55,22 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <hr>
 <br/>
 <div class='row'>
+
+<div class="column">
+    <div class="card">
+      <img src="/teampics/jina.jpg" class="rounded-corners" alt="am" width=70 height=85>
+      <div class="container">
+        <h4>Jina Lee</h4>
+        <li> Data Management Consultant@Watson Health</li>
+        <li> Machine Learning Engineer@MLOR</li>
+        <li> M.S. Data Science </li>
+        <a href="https://www.linkedin.com/in/jina-lee-513a6119a"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.indiana.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
  <div class="column">
     <div class="card">
       <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=75 height=70>
@@ -80,17 +96,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
  </div>
 
 
-  <div class="column">
-    <div class="card">
-      <img src="/teampics/jina.jpg" class="rounded-corners" alt="am" width=65 height=75>
-      <div class="container">
-        <h4>Jina Lee</h4>
-        <li> Data Management Consultant@Watson Health</li>
-        <li> Machine Learning Engineer@MLOR</li>
-        <li> M.S. Data Science </li>
-      </div>
-    </div>
- </div>
+  
+
 </div>
 
 <br/>
