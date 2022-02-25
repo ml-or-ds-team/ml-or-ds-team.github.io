@@ -12,7 +12,7 @@ categories: news
   width: 50%;
 }
 img {
-  border: 2px solid #555;
+  border radius: 8px;;
 }
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
