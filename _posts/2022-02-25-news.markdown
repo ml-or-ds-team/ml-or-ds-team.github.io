@@ -17,7 +17,7 @@ img {
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
-<img src="/teampics/jeff.png" class="rounded-corners" alt="am" width=80 height=100>
+<img src="/teampics/jeff.png" class="rounded-corners" alt="am" width=90 height=100>
 
 We are very excited to annouce that Jeff Komatsu <a href="https://www.linkedin.com/in/jeff-komatsu-215541b2/"><i class="fab fa-linkedin"></i></a> is now serving as an advisor and mentor of the team. Jeff is an engineering and data infrastructure leader with over 30 years of experiences driving innovation and success in manufacturing and quality engineering at IBM.<br/>
 We are extremely delighted to team up with Jeff and looking forward to making huge business impact together!

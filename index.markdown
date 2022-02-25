@@ -33,6 +33,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <br/>
 <p><a href='https://ml-or-ds-team.github.io/blog/'>News & Blog Update</a><p>
 <p></p>
+<p><h3 style="color:Tomato;">Feb 25, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/02/25/news.html'>
+Jeff Komatsu is joining the team as advisor.</a></h3></p>
 <p><h3 style="color:Tomato;">Feb 23, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/02/23/news.html'>Jina Lee joined the team as Machine Learning Engineer (MLOR Mentorship).</a></h3></p>
 <p><h3 style="color:Tomato;">Jan 22, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/01/22/news.html'>Our paper was accepted at ICLR 2022!</a></h3></p>
 <p><h3 style="color:Tomato;">Jan 21, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/01/21/news.html'>Mark Booth is joining the team as advisor.</a></h3></p>
