@@ -135,8 +135,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>
         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a>
         <a href="https://engineering.lehigh.edu/ise/faculty/post-docs-and-phd-students"><i class="fas fa-graduation-cap"></i></a>
-        <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a>
-        <a href="https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en"><i class="ai ai-google-scholar-square"></i></a>
+        <!-- <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
+        <!-- <a href="https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en"><i class="ai ai-google-scholar-square"></i></a> -->
         <a href="mailto:shi.zheng.tfls@gmail.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
