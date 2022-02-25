@@ -81,6 +81,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> Cognitive Supply Chain Expert@Supply Chain </li>
         <li> Business Partner@MLOR</li>
         <li> M.S. Finance &amp; M.S. Supply Chain Management </li>
+        <a href="http://linkedin.com/in/paul-balcaen-533470"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.ulb.be/en"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:paul_balcaen@yahoo.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
  </div>
@@ -93,6 +96,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> Software Engineer@Supply Chain </li>
         <li> DevOp Partner@MLOR</li>
         <li> M.S. Electrical Engineering </li>
+        <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.utep.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:danirg.id25@gmail.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
  </div>
