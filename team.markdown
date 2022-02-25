@@ -57,7 +57,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
  <div class="row">
 <div class="column">
     <div class="card">
-      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=75 height=75>
+      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=80 height=70>
       <div class="container">
         <h4>Andrew St. John</h4>
         <li> Analytics Lead </li>
