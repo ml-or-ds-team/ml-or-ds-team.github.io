@@ -53,7 +53,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 <h1>MLOR Core</h1>
 <hr>
-<br/>
  <div class="row">
 <div class="column">
     <div class="card">
@@ -151,17 +150,12 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
   </div>
- 
+<hr>
 
 
 </div>
-<br/>
-<br/>
-<hr>
-
 <h1>MLOR Mentorship &amp; Partners </h1>
 <hr>
-<br/>
 <div class='row'>
 
 <div class="column">
@@ -215,7 +209,4 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
   
 
 </div>
-
-<br/>
 <hr>
-<br/>
