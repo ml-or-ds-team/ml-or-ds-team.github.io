@@ -1,6 +1,6 @@
 ---
 layout: seminar_home
-title: Seminar
+title: Seminar & Talk
 ---
 
 <style>
