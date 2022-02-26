@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Data Science Seminar Series - 12/16/2021"
+author: Ayrton Didhier Mondragon Mejia
+date:   2021-12-16 12:15 -0400
+categories: seminar_series
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+Today, we had our speaker <b>Andrew St. John</b> <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a> <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a> give a talk on <b>the role of data analytics in data science project</b>.
+
+<img src="/blogpics/seminar_12_16_2021.jpg" alt="" style="width:100%;">
+
+Highlight from today's seminar:
+
+{% highlight ruby %} 
+- How to visualize business problems and identify potential use cases
+- Demonstration using Matplotlib and Seaborn
+- How to visualize and explore key metrics
+{% endhighlight %}
+
+ 
