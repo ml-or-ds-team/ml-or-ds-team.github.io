@@ -17,15 +17,15 @@ layout: default
 
   {%- if seminars.size > 0 -%}
     {%- if page.list_title -%}
-      <h2 class="talk-list-heading">{{ page.list_title }}</h2>
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="talk-list">
+    <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for seminar in seminars -%}
       <li>
-        <span class="talk-meta">{{ seminar.date | date: date_format }}</span>
+        <span class="post-meta">{{ seminar.date | date: date_format }}</span>
         <h3>
-          <a class="talk-link" href="{{ seminar.url | relative_url }}">
+          <a class="post-link" href="{{ seminar.url | relative_url }}">
             {{ seminar.title | escape }}
           </a>
         </h3>
