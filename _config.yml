@@ -42,11 +42,11 @@ header_pages:
 - blog/index.markdown
 - talk/index.markdown
 - team.markdown
-- collaborator.markdown
+# - collaborator.markdown
 - career.markdown
 
-paginate: 5
-paginate_path: "/blog/page:num/"
+# paginate: 5
+# paginate_path: "/blog/page:num/"
  
 
 # Exclude from processing.
