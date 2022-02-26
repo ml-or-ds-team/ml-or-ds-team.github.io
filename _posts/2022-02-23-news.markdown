@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jina Lee joined the team as Machine Learning Engineer (MLOR mentorship)."
+author: MLOR Team
 date:   2022-02-23 12:00 -0400
 categories: news
 ---
