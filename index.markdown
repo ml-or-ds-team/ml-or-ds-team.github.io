@@ -2,7 +2,8 @@
 layout: home
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" type="image/x-icon" href="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png">
+<link rel="shortcut icon" type="image/png" href="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png">
+<!-- <link rel="icon" type="image/png" sizes="96x96" href="pics/favicon-96x96.png"> -->
 <style>
 #hp  {
 float: left;    
