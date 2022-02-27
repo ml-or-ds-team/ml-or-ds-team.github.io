@@ -3,7 +3,7 @@ layout: post
 title:  "MLOR Team is creating IBM Machine Learning Certification Exam."
 author: MLOR Team
 date:   2021-11-30 15:15 -0400
-categories: outreach
+categories: news
 ---
 <style>
 .center {

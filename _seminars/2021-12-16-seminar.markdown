@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science Seminar Series - How to visualize your business problem"
 author: Ayrton Didhier Mondragon Mejia
 date:   2021-12-16 12:15 -0400
-categories: seminar_series
+categories: talk
 ---
 <style>
 .center {

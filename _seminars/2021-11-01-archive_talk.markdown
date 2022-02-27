@@ -3,7 +3,7 @@ layout: post
 title:  "Archive: Ayrton Didhier Mondragon at IBM AI Week"
 author: MLOR Team
 date:   2021-11-01 12:15 -0400
-categories: archive_talk
+categories: talk
 ---
 <style>
 .center {

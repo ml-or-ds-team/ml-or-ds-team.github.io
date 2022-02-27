@@ -3,7 +3,7 @@ layout: post
 title:  'Data Science Seminar Series - Tech Review on "Item Matching" Project'
 author: Andrew St.John
 date:   2021-11-04 12:15 -0400
-categories: seminar_series
+categories: talk
 ---
 <style>
 .center {
