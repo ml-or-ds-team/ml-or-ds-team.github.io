@@ -30,7 +30,7 @@ We are a cross-organizational and multi-national team at IBM. We are from IBM Sy
 <hr>
 <br/>
 <br/>
-<p><a href='https://ml-or-ds-team.github.io/blog/'>Latest Update</a><p>
+<p style="color:DodgerBlue;">Latest Update<p>
 <p></p>
 <p><h3 style="color:Tomato;">Feb 25, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/02/25/news.html'>
 Jeff Komatsu is joining the team as advisor.</a></h3></p>
