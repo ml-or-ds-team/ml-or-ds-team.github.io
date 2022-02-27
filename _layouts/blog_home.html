@@ -9,9 +9,9 @@ layout: default
 
 
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+    {% assign posts = site.categories['news'] %}
   {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts = site.categories['news'] %}
   {% endif %}
 
 
