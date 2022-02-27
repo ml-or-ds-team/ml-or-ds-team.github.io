@@ -4,6 +4,7 @@ title:  "Archive: Zheng Shi gave talks on deep learning and optimization at vari
 author: MLOR Team
 date:   2020-12-02 17:26 -0400
 categories: talk
+tag: video talks
 ---
 
 <style>
