@@ -113,7 +113,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/mark.jpg" class="rounded-corners" alt="am" width=50 height=70>
       <div class="container">
         <h4>Mark Booth</h4>
-        <li> MLOR Mentor &amp; Advisor </li>
+        <li> Advisor </li>
         <li> M.S. Industrial Engineering </li>
         <a href="https://www.linkedin.com/in/mark-booth-a1844b41"><i class="fab fa-linkedin"></i></a>
         <a href="https://engineering.lehigh.edu/ise"><i class="fas fa-graduation-cap"></i></a>
@@ -127,7 +127,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/jeff.png" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Jeff Komatsu</h4>
-        <li> MLOR Mentor &amp; Advisor </li>
+        <li> Advisor </li>
         <a href="https://www.linkedin.com/in/jeff-komatsu-215541b2/"><i class="fab fa-linkedin"></i></a>
         <a href="mailto:komatsu@us.ibm.com"><i class="fas fa-envelope"></i></a>
       </div>

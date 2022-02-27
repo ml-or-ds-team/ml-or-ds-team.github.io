@@ -20,7 +20,7 @@ img {
 
 <img src="/teampics/mark.jpg" class="rounded-corners" alt="am" width=75 height=100>
 
-We are very excited to annouce that Mark Booth <a href="https://www.linkedin.com/in/mark-booth-a1844b41"><i class="fab fa-linkedin"></i></a> is now serving as an advisor and mentor of the team. Mark is a true entrepreneur with over 30 years of experience leading innovation and making success at IBM.
+We are very excited to annouce that Mark Booth <a href="https://www.linkedin.com/in/mark-booth-a1844b41"><i class="fab fa-linkedin"></i></a> is now serving as an advisor of the team. Mark is a true entrepreneur with over 30 years of experience leading innovation and making success at IBM.
 Mark has a track record of creating his own successful business. <br/>
 We are delighted to team up with such a great mind and looking forward to making a greater success!
 
