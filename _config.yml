@@ -47,8 +47,16 @@ header_pages:
 # - collaborator.markdown
 - career.markdown
 
-paginate: 6
-paginate_path: "/blog/page:num/"
+# paginate: 6
+# paginate_path: "/blog/page:num/"
+
+paginate_multiple:
+  - paginate: 6
+    paginate_path: '/blog/page:num/'
+    sub_dir: '/nb'
+  - paginate: 6
+    paginate_path: '/talk/page:num/'
+    sub_dir: '/st'
  
 
 # Exclude from processing.
