@@ -36,6 +36,3 @@ We are a cross-organizational and multi-national team at IBM. We are from IBM Sy
 Jeff Komatsu is joining the team as advisor.</a></h3></p>
 <p><h3 style="color:Tomato;">Feb 23, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/02/23/news.html'>Jina Lee joined the team as Machine Learning Engineer (MLOR Mentorship).</a></h3></p>
 <p><h3 style="color:Tomato;">Jan 22, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/01/22/news.html'>Our paper was accepted at ICLR 2022!</a></h3></p>
-<p><h3 style="color:Tomato;">Jan 21, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/01/21/news.html'>Mark Booth is joining the team as advisor.</a></h3></p>
-<!-- <p><h3 style="color:Tomato;">Dec 16, 2021. <a href="https://ml-or-ds-team.github.io/seminar_series/2021/12/16/seminar.html">Data Science Seminar Series</a></h3></p> -->
-<p><h3 style="color:Tomato;">Nov 30, 2021. <a href="https://ml-or-ds-team.github.io/outreach/2021/11/30/education.html">MLOR Team is creating IBM ML certification exam.</a></h3></p>
