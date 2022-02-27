@@ -152,10 +152,23 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
   </div>
 </div>
 <br/>
-<p><h1>MLOR Mentorship &amp; Partners </h1></p>
+<p><h1>MLOR Mentorship</h1></p>
 <hr>
 <div class='row'>
-
+ <div class="column">
+    <div class="card">
+      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=75 height=70>
+      <div class="container">
+        <h4>Daniel Rodriguez</h4>
+        <li> Software Engineer@Supply Chain </li>
+        <li> DevOp@MLOR</li>
+        <li> M.S. Electrical Engineering </li>
+        <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.utep.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:danirg.id25@gmail.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
 <div class="column">
     <div class="card">
       <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
@@ -170,9 +183,11 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
  </div>
- <!-- </div> -->
-
- <!-- <div class='row'> -->
+</div>
+<br/>
+<p><h1>MLOR Partners</h1></p>
+<hr>
+<div class='row'>
  <div class="column">
     <div class="card">
       <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=75 height=70>
@@ -187,24 +202,5 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
  </div>
-
- <div class="column">
-    <div class="card">
-      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=75 height=70>
-      <div class="container">
-        <h4>Daniel Rodriguez</h4>
-        <li> Software Engineer@Supply Chain </li>
-        <li> DevOp Partner@MLOR</li>
-        <li> M.S. Electrical Engineering </li>
-        <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.utep.edu/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="mailto:danirg.id25@gmail.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div>
-
-
-  
-
-<!-- </div> -->
+</div>
 <hr>
