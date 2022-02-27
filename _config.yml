@@ -41,7 +41,7 @@ minima:
   skin: dark
   
 header_pages:
-- blog/index.markdown
+- blog/index.html
 - talk/index.markdown
 - team.markdown
 # - collaborator.markdown
