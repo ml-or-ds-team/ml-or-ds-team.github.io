@@ -31,7 +31,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 }
 </style>
 
-
+<br/>
+<br/>
+<hr>
 <p>We think data science is an interplay of mathematics and computer science. We think theory and practice are equally important ... sometimes, one could be a lit more important than the other. We believe Machine Learning and Mathematical Optimization are core applications and tools in the data science field. </p>
 
 <p>We also think, as a data science team in the tech industry, we should care about values more than anything else. Yes, values ... ultimately, we believe that is the only thing that matters. Values could be driving revenue growth, saving investement cost ... values could be also beyond company and business, that is the values to our life and community.</p>
