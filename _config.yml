@@ -42,7 +42,7 @@ minima:
   
 header_pages:
 - blog/index.html
-- talk/index.markdown
+- talk/index.html
 - team.markdown
 # - collaborator.markdown
 - career.markdown
