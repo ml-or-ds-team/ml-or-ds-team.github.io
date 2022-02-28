@@ -26,8 +26,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <p><h2>Machine Learning (ML) and Operations Research (OR) - Data Science Team</h2></p>
   
 <p><img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" id="hp" alt="" width="150"></p>
-<p>We are a group of engineers and scientists that share the same interest in Data Science. We are data scientists, software developers, subject matter experts, business planning managers, hardware developers, and systems engineers.<br/><br/>
-We are a cross-organizational and multi-national team at IBM. We are from IBM Systems, Cloud, and Watson Health, and we are from Canada, Mexico, and the United States.</p>
+<p>We are a group of engineers and scientists that share the same interest in Data Science. We are data scientists, software developers, subject matter experts, business planning managers, hardware developers, and systems engineers.</p>
 <br/>
 <hr>
 <br/>
