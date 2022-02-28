@@ -28,6 +28,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <p><img src="/pics/Team-Business-People-Success-Teamwork-Group-4630294.png" id="hp" alt="" width="150"></p>
 <p>We are a group of engineers and scientists that share the same interest in Data Science. We are data scientists, software developers, subject matter experts, business planning managers, hardware developers, and systems engineers.</p>
 <br/>
+<br/>
+<br/>
 <hr>
 <br/>
 <br/>
