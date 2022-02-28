@@ -42,8 +42,9 @@ minima:
   skin: dark
   
 header_pages:
+- news/index.html
+- talks/index.html
 - blog/index.html
-- talk/index.html
 - team.markdown
 - career.markdown
 # - contact.markdown
