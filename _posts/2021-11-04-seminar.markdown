@@ -2,6 +2,7 @@
 layout: post
 title:  'Data Science Seminar Series - Tech Review on "Item Matching" Project'
 author: Andrew St.John
+image: /teampics/andrew.jpg
 date:   2021-11-04 12:15 -0400
 categories: talk
 ---
