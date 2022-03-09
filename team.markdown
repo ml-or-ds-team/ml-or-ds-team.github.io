@@ -11,7 +11,7 @@ permalink: /team/
 .column {
   float: left;
   width: 25%;
-  padding: 20px;
+  padding: 25px;
 }
 
 /* Clearfix (clear floats) */
