@@ -161,7 +161,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <div class="container">
         <h4>Daniel Rodriguez</h4>
         <li> Software Engineer@Supply Chain </li>
-        <li> DevOp@MLOR</li>
+        <li> DevOp</li>
         <li> M.S. Electrical Engineering </li>
         <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.utep.edu/"><i class="fas fa-graduation-cap"></i></a>
@@ -175,7 +175,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <div class="container">
         <h4>Jina Lee</h4>
         <li> Data Management Consultant@Watson Health</li>
-        <li> Machine Learning Engineer@MLOR</li>
+        <li> Data Scientist - Machine Learning Engineering</li>
         <li> M.S. Data Science </li>
         <a href="https://www.linkedin.com/in/jina-lee-513a6119a"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.indiana.edu/"><i class="fas fa-graduation-cap"></i></a>
