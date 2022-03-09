@@ -37,7 +37,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 <p><h4>Grow your Data Science expertise with MLOR team</h4></p>
 
-<p>We welcome anyone with passion in Data Science, Machine Learning, Applied Mathematics and Computer Science to join us as part of the MLOR team. You could be experts in one or multiple Data Science fields and looking for opportunities to own your work, build success and make business impact. You could be applied scientist, researchers, engineers or business subject matter experts, and you would love to grow your expertise in data science. Together, we can make a better team.</p>
+<p>We welcome everyone with passion in Data Science, Machine Learning, Applied Mathematics and Computer Science to join us as part of the MLOR team. You could be experts in one or multiple Data Science fields and looking for opportunities to own your work, build success and make business impact. You could be applied scientist, researchers, engineers or business subject matter experts, and you would love to grow your expertise in data science. Together, we can make a better team.</p>
   
 <p><h4>We are looking for the following roles:</h4></p>  
 <br/>
