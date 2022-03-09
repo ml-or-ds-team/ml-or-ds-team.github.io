@@ -10,8 +10,8 @@ permalink: /team/
 
 .column {
   float: left;
-  width: 33%;
-  padding: 30px;
+  width: 25%;
+  padding: 20px;
 }
 
 /* Clearfix (clear floats) */
@@ -103,12 +103,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
   </div>
-  
- </div>
- 
- <div class="row">
-  
-   <div class="column">
+
+  <div class="column">
     <div class="card">
       <img src="/teampics/mark.jpg" class="rounded-corners" alt="am" width=50 height=70>
       <div class="container">
@@ -121,7 +117,10 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
   </div>
-
+  
+ </div>
+ 
+ <div class="row">
    <div class="column">
     <div class="card">
       <img src="/teampics/jeff.png" class="rounded-corners" alt="am" width=70 height=70>
