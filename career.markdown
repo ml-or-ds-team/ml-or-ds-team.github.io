@@ -47,4 +47,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <h3><a href='https://ml-or-ds-team.github.io/career/analytics.html'>Data Scientist - Analytics</a></h3>
 <hr>
 <br/>
-<p></p> For the above roles, we are also open to bring you in as mentee and provide you mentorship if you are interested. As a mentee of MLOR, you will have a designated mentor, and we expect to work with you on real stuff every day. 
+
+<p>For both roles, There are two options for you to join the team:
+<ul>
+<li>You can join us as a core team member. Being a core member means you will make a great contribution as the rest of core team does and help us build the team. At the same time, we encourage you to be a mentor and help others in the community.</li>
+<li>You can join us for mentorship prgram, and you will have a designated mentor from the core team. Your mentor and the rest of the team will help you grow, and we expect to work with you on real projects.</li>
+</ul>
