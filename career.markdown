@@ -51,7 +51,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <p><h4>For both roles, there are two options for you to join the team:</h4></p>
 <p>
 <ul>
-<li>Join us as a <b>core team member</b>: being a core member means you will make a great contribution as the rest of core team does and help us build the team. At the same time, we encourage you to be a mentor and help others in the community!</li>
+<li>Join us as a <b>core team member</b>: being a core member means you will make a great contribution as the rest of the core team does. It also means you will help us build the team and bring your talent to the growth of the team. At the same time, we encourage you to be a mentor and help others in the data science community!</li>
 <br/>
-<li>Join us as a <b>mentee</b>: you will have a designated mentor from the core team. Your mentor and the rest of the team will help you grow, and we expect to work with you on real projects. Being part of the team means we will also want to learn from your expertise!</li>
+<li>Join us as a <b>mentee</b>: you will have a designated mentor from the core team. Your mentor and the rest of the team will help you grow. Being a mentee doesn't mean you are remote from the work the rest of team does, instead, we expect to work with you on real projects and learn from you!</li>
 </ul></p>
