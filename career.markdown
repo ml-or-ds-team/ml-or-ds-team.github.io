@@ -50,6 +50,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 <p>For both roles, There are two options for you to join the team:
 <ul>
-<li>You can join us as a core team member. Being a core member means you will make a great contribution as the rest of core team does and help us build the team. At the same time, we encourage you to be a mentor and help others in the community.</li>
-<li>You can join us for mentorship prgram, and you will have a designated mentor from the core team. Your mentor and the rest of the team will help you grow, and we expect to work with you on real projects.</li>
+<li>You can join us as a <b>core team member</b>. Being a core member means you will make a great contribution as the rest of core team does and help us build the team. At the same time, we encourage you to be a mentor and help others in the community.</li>
+<br/>
+<li>You can join us for <b>mentorship prgram</b>, and you will have a designated mentor from the core team. Your mentor and the rest of the team will help you grow, and we expect to work with you on real projects.</li>
 </ul>
