@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Vivek Pant is joining the team as Data Scientist in Analytics."
+author: MLOR Team
+date:   2022-03-11 12:00 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  border radius: 8px;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+<img src="/teampics/vivek.jpg" class="rounded-corners" alt="am" width=95 height=100>
+
+We are very excited to annouce that <b>Vivek Pant</b> <a href="https://www.linkedin.com/in/vivekanand-pant-574a76113/"><i class="fab fa-linkedin"></i></a> joined the team as <b>Data Scientist in Analytics</b>. Vivek earned his Bachelor degree of IT from NIT Allahabad, India. Vivek is a data expert with 17 years of experience in variety of data sources - structured, unstructed, relational, big data. Prior to joining the team, Vivek was a Data Scientist with working experience as an ETL SME, DataBase Admin, Database programmer, Data specialist (Advanced Analytics), Data analyst.  Vivek is an avid learner and enjoying learning and sharing his experience and knowledge. Like the rest of the team, Vivek is in love with mathematics and, in particular, numbers. 
+
+Welcome aboard, Vivek!
