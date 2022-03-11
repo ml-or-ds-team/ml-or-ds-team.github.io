@@ -18,7 +18,7 @@ img {
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
-<img src="/teampics/vivek.jpg" class="rounded-corners" alt="am" width=95 height=100>
+<img src="/teampics/vivek.jpg" class="rounded-corners" alt="am" width=85 height=105>
 
 We are very excited to annouce that <b>Vivek Pant</b> <a href="https://www.linkedin.com/in/vivekanand-pant-574a76113/"><i class="fab fa-linkedin"></i></a> joined the team as <b>Data Scientist in Analytics</b>. Vivek is a data expert with 17 years of experience in variety of data sources - structured, unstructed, relational, big data. Prior to joining the team, Vivek was a Data Scientist as an ETL SME, DataBase Admin, Database programmer, Data specialist (Advanced Analytics), Data analyst. Vivek earned his Bachelor degree of IT from NIT Allahabad, India.<br/>  
 Vivek is an avid learner and enjoying learning and sharing his experience and knowledge. Like the rest of the team, Vivek is in love with mathematics and, in particular, numbers. 
