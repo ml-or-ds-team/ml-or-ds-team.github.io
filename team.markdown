@@ -107,8 +107,19 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
  </div>
  
  <div class="row">
-  
    <div class="column">
+    <div class="card">
+      <img src="/teampics/jeff.png" class="rounded-corners" alt="am" width=70 height=70>
+      <div class="container">
+        <h4>Jeff Komatsu</h4>
+        <li> MLOR Advisor </li>
+        <a href="https://www.linkedin.com/in/jeff-komatsu-215541b2/"><i class="fab fa-linkedin"></i></a>
+        <a href="mailto:komatsu@us.ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
     <div class="card">
       <img src="/teampics/mark.jpg" class="rounded-corners" alt="am" width=50 height=70>
       <div class="container">
@@ -122,18 +133,21 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
   </div>
 
-   <div class="column">
+  <div class="column">
     <div class="card">
-      <img src="/teampics/jeff.png" class="rounded-corners" alt="am" width=70 height=70>
+      <img src="/teampics/vivek.jpg" class="rounded-corners" alt="am" width=50 height=70>
       <div class="container">
-        <h4>Jeff Komatsu</h4>
-        <li> MLOR Advisor </li>
-        <a href="https://www.linkedin.com/in/jeff-komatsu-215541b2/"><i class="fab fa-linkedin"></i></a>
-        <a href="mailto:komatsu@us.ibm.com"><i class="fas fa-envelope"></i></a>
+        <h4>Vivekanand (Vivek) Pant</h4>
+        <li> Data Scientist </li>
+        <li> B.S. Information Technology </li>
+        <a href="https://www.linkedin.com/in/vivekanand-pant-574a76113/"><i class="fab fa-linkedin"></i></a>
+        <a href="http://www.mnnit.ac.in/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:vivekpan@in.ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
   </div>
-  
+</div>
+<div class="row">
  <div class="column">
     <div class="card">
       <img src="/teampics/new_touxiang.png" class="rounded-corners" alt="zs" width=75 height=75>
