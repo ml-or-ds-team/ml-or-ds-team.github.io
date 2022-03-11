@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vivek Pant is joining the team as Data Scientist in Analytics."
+title:  "Vivek Pant joined the team as Data Scientist in Analytics."
 author: MLOR Team
 date:   2022-03-11 12:00 -0400
 categories: news

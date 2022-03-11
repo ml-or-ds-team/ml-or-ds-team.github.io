@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jeff Komatsu is joining the team as advisor."
+title:  "Jeff Komatsu joined the team as advisor."
 author: MLOR Team
 date:   2022-02-25 12:00 -0400
 categories: news
