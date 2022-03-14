@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Mehdi El Haylali joined the team as Machine Learning Engineer (MLOR mentorship)."
+author: MLOR Team
+date:   2022-03-14 15:00 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  border radius: 8px;;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+<img src="/teampics/mehdi.jpg" class="rounded-corners" alt="am" width=90 height=125>
+
+We are very excited to annouce that <b>Mehdi El Haylali</b> <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a> joined the team as machine learning engineer. Mehdi earned his Master of Engineering degree in Data Science at Ecole Centrale Casablanca and joined IBM Consulting as a Data Scientist in Sepetember 2020. 
+
+Mehdi worked on many data science and Machine Learning projects during his Master program, internships and then full-time tenure at IBM Consulting. With a strong background in applied mathematics, Mehdi loves to dive deep in the theory of machine learning algorithms.
+
+Mehdi will work closely with his co-mentors <b>Ayrton Didhier Mondragon</b> <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> and <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>. 
+
+Welcome, Mehdi!

@@ -35,6 +35,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <br/>
 <p style="color:DodgerBlue;">Latest Update<p>
 <p></p>
+<p><h3 style="color:Tomato;">Mar 14, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/03/14/news.html'>
+Mehdi El Haylali joined the team as Machine Learning Engineer (MLOR mentorship).</a></h3></p>
 <p><h3 style="color:Tomato;">Mar 11, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/03/11/news.html'>
 Vivek Pant joined the team as Data Scientist in Analytics.</a></h3></p>
 <p><h3 style="color:Tomato;">Feb 25, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/02/25/news.html'>
