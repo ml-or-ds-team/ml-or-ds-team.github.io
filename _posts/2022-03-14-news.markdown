@@ -22,7 +22,7 @@ img {
 
 We are very excited to annouce that <b>Mehdi El Haylali</b> <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a> joined the team as machine learning engineer. 
 
-Mehdi earned his Master of Engineering degree in Data Science at Ecole Centrale Casablanca and joined IBM Consulting as a Data Scientist in April 2020. 
+Mehdi earned his Master of Engineering degree in Data Science at Ecole Centrale Casablanca and joined IBM Consulting as a Data Scientist in April 2021. 
 
 Mehdi worked on many data science and Machine Learning projects during his Master program, internships and then full-time tenure at IBM Consulting. With a strong background in applied mathematics, Mehdi loves to dive deep in the theory of machine learning algorithms.
 
