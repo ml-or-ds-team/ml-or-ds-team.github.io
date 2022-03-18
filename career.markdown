@@ -41,7 +41,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
   
 <p><h4>We are looking for the following roles:</h4></p>  
 <br/>
-<h3><a href="https://ml-or-ds-team.github.io/career/mle.html">Data Scientist - Machine Learning Engineering</a></h3>
+<h3><a href="https://ml-or-ds-team.github.io/career/mle.html">Data Scientist - Machine Learning Engineering</a>
+<p style="color:red"> -- No longer accepting applications</p></h3>
 <hr>
 <br/>
 <h3><a href='https://ml-or-ds-team.github.io/career/analytics.html'>Data Scientist - Analytics</a>
