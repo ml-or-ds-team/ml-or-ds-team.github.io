@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zheng Shi is invited to give a talk at Optimization for Data Science and Machine Learning of ICCOPT 2022!"
+title:  "Zheng Shi will speak at Optimization for Data Science and Machine Learning of ICCOPT 2022!"
 author: MLOR Team
 date:   2022-03-21 12:07 -0400
 categories: news
