@@ -203,7 +203,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/mehdi.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
         <h4>Mehdi El Haylali</h4>
-        <li> Data Scientist@IBM Consulting \ AI &amp; Analytics Practice</li>
+        <li> Data Scientist@IBM Consulting / AI &amp; Analytics Practice</li>
         <li> Data Scientist - Machine Learning Engineering</li>
         <li> M.Eng. Data Science </li>
         <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a>
