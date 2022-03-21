@@ -208,7 +208,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> Data Scientist@IBM Consulting / AI &amp; Analytics Practice</li>
         <li> Data Scientist - Machine Learning Engineering</li>
         <li> M.Eng. Data Science </li>
-        <li> <em>Mentor: Ayrton and Zheng</em></li>
+        <li> <em>Mentor: Ayrton</em></li>
         <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a>
         <a href="http://www.centrale-casablanca.ma/fr/"><i class="fas fa-graduation-cap"></i></a>
         <a href="mailto:mehdi.el.haylali@gmail.com"><i class="fas fa-envelope"></i></a>
