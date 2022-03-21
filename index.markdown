@@ -44,3 +44,5 @@ Mehdi El Haylali joined the team as Machine Learning Engineer (MLOR mentorship).
 Vivek Pant joined the team as Data Scientist in Analytics.</a></h3></p>
 <p><h3 style="color:Tomato;">Feb 25, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/02/25/news.html'>
 Jeff Komatsu joined the team as advisor.</a></h3></p>
+<p><h3 style="color:Tomato;">Feb 23, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/02/23/news.html'>
+Jina Lee joined the team as Machine Learning Engineer (MLOR mentorship).</a></h3></p>
