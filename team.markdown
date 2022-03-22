@@ -45,38 +45,6 @@ body {
 background-color: rgb(241,236,238);
 background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,196,1) 75%);
 }
-  
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .3s ease;
-  background-color: red;
-}
-
-.container:hover .overlay {
-  opacity: 1;
-}
-
-.icon {
-  color: white;
-  font-size: 100px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-.fa-user:hover {
-  color: #eee;
-}
 
 </style>
 
@@ -97,8 +65,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
         <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a>
 <!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://www.credly.com/org/ibm/badge/blue-core-coach"> <img src="/teampics/mentor.jpg" class="image" alt="am" width=20 height=20></a>
+        <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a> 
       </div>
     </div>
   </div>
@@ -133,7 +100,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="https://www.uag.mx/"><i class="fas fa-graduation-cap"></i></a>
 <!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
         <a href="mailto:ayrton.mondragon1@ibm.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://www.credly.com/org/ibm/badge/blue-core-mentor"> <img src="/teampics/mentor.jpg" class="image" alt="am" width=20 height=20></a>
       </div>
     </div>
   </div>
@@ -163,7 +129,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="https://www.linkedin.com/in/mark-booth-a1844b41"><i class="fab fa-linkedin"></i></a>
         <a href="https://engineering.lehigh.edu/ise"><i class="fas fa-graduation-cap"></i></a>
         <a href="mailto:boothm@us.ibm.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://www.credly.com/org/ibm/badge/blue-core-mentor"> <img src="/teampics/mentor.jpg" class="image" alt="am" width=20 height=20></a>
       </div>
     </div>
   </div>
@@ -196,7 +161,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <!-- <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
         <!-- <a href="https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en"><i class="ai ai-google-scholar-square"></i></a> -->
         <a href="mailto:shi.zheng.tfls@gmail.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://www.credly.com/org/ibm/badge/blue-core-mentor"> <img src="/teampics/mentor.jpg" class="image" alt="am" width=20 height=20></a>
       </div>
     </div>
   </div>
@@ -308,7 +272,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="http://linkedin.com/in/paul-balcaen-533470"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.ulb.be/en"><i class="fas fa-graduation-cap"></i></a>
         <a href="mailto:paul_balcaen@yahoo.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://www.credly.com/org/ibm/badge/blue-core-coach"> <img src="/teampics/mentor.jpg" class="image" alt="am" width=18 height=18></a>
       </div>
     </div>
  </div>
