@@ -8,14 +8,14 @@ layout: default
   {{ content }}
 
 
-  <!-- {% if site.paginate %}
+  {% if site.paginate %}
     {% assign posts = site.categories['news'] %}
   {% else %}
     {% assign posts = site.categories['news'] %}
   {% endif %} -->
 
 
-  <!-- {%- if posts.size > 0 -%}
+  {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
@@ -63,9 +63,9 @@ layout: default
     </div>
     {% endif %}
 
-  {%- endif -%} -->
+  {%- endif -%}
 
-  {% for post in paginator.posts %}
+  <!-- {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
     <span class="date">{{ post.date }}</span>
@@ -117,6 +117,6 @@ layout: default
     <span>Next &raquo;</span>
   {% endif %}
 </div>
-{% endif %}
+{% endif %} -->
 
 </div>
