@@ -59,7 +59,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=80 height=70>
       <div class="container">
         <h4>Andrew St. John</h4>
-        <li> Analytics Lead </li>
+        <li> Analytics Lead &amp; Mentor </li>
         <li> B.S. Neuroscience </li>
 <!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
@@ -93,7 +93,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Ayrton Didhier Mondragon</h4>
-        <li> ML Engineering Lead</li>
+        <li> ML Engineering Lead &amp; Mentor</li>
         <li> M.Eng. Information Technologies and Communications </li>
         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
