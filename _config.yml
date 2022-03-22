@@ -49,8 +49,8 @@ header_pages:
 - career.markdown
 # - contact.markdown
 
-# paginate: 5
-# paginate_path: "/blog/page:num/"
+paginate: 6
+paginate_path: "/blog/page:num/"
 
 # paginate_multiple:
 #   - paginate: 6
