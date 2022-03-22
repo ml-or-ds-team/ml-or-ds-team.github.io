@@ -238,7 +238,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
  <div class="column">
     <div class="card">
-      <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=70 height=95>
+      <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=85 height=95>
       <div class="container">
         <h4>Aishwarya Bhupatiraju</h4>
         <li>  Data Scientist @ Finance and Operations</li>
