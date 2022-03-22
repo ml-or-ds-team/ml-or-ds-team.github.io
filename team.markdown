@@ -169,6 +169,23 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <p><h1>MLOR Mentorship</h1></p>
 <hr>
 <div class='row'>
+
+<div class="column">
+    <div class="card">
+      <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=85 height=95>
+      <div class="container">
+        <h4>Aishwarya Bhupatiraju</h4>
+        <li>  Data Scientist @ Finance and Operations</li>
+        <li> Data Scientist - Machine Learning Engineering</li>
+        <li> B.S Data Science </li>
+        <li> <em>Mentor: Ayrton</em></li>
+        <a href="http://linkedin.com/in/aishwarya-bhupatiraju"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.berkeley.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="Aishwarya.Bhupatiraju@ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
  <div class="column">
     <div class="card">
       <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=75 height=70>
@@ -201,6 +218,10 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
  </div>
 
+</div>
+
+<div class="row">
+
 <div class="column">
     <div class="card">
       <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
@@ -216,9 +237,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
  </div>
-</div>
-
-<div class="row">
 
 <div class="column">
     <div class="card">
@@ -236,21 +254,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
  </div>
 
- <div class="column">
-    <div class="card">
-      <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=85 height=95>
-      <div class="container">
-        <h4>Aishwarya Bhupatiraju</h4>
-        <li>  Data Scientist @ Finance and Operations</li>
-        <li> Data Scientist - Machine Learning Engineering</li>
-        <li> B.S Data Science </li>
-        <li> <em>Mentor: Ayrton</em></li>
-        <a href="http://linkedin.com/in/aishwarya-bhupatiraju"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.berkeley.edu/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="Aishwarya.Bhupatiraju@ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div>
+ 
 
 </div>
 <br/>
