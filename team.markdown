@@ -105,12 +105,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
   <div class="column">
     <div class="card">
-      <div class="container">
       <img src="/teampics/arvind.jpg" class="rounded-corners" alt="am" width=70 height=70>
-      <div class="overlay">
-      <a href="#" class="icon" title="User Profile"><i class="fa fa-user"></i></a>
-      </div>
-      
+      <div class="container">
         <h4>Arvind Betrabet</h4>
         <li> Senior Data Scientist </li>
         <li> Ph.D. Electrical Engineering </li>
