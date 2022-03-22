@@ -66,6 +66,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a>
 <!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
         <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a>
+        <a href="https://www.credly.com/org/ibm/badge/blue-core-coach"> <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=20 height=20></a>
       </div>
     </div>
   </div>
