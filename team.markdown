@@ -276,7 +276,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="http://linkedin.com/in/paul-balcaen-533470"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.ulb.be/en"><i class="fas fa-graduation-cap"></i></a>
         <a href="mailto:paul_balcaen@yahoo.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://www.credly.com/org/ibm/badge/blue-core-coach"> <img src="/teampics/coach.jpg" class="image" alt="am" width=20 height=20></a>
+        <a href="https://www.credly.com/org/ibm/badge/blue-core-coach"> <img src="/teampics/mentor.jpg" class="image" alt="am" width=20 height=20></a>
       </div>
     </div>
  </div>
