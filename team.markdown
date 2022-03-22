@@ -46,6 +46,38 @@ background-color: rgb(241,236,238);
 background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,196,1) 75%);
 }
   
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+  background-color: red;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.icon {
+  color: white;
+  font-size: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.fa-user:hover {
+  color: #eee;
+}
+
 </style>
 
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
@@ -73,11 +105,12 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
   <div class="column">
     <div class="card">
+      <div class="container">
       <img src="/teampics/arvind.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="overlay">
       <a href="#" class="icon" title="User Profile"><i class="fa fa-user"></i></a>
       </div>
-      <div class="container">
+      
         <h4>Arvind Betrabet</h4>
         <li> Senior Data Scientist </li>
         <li> Ph.D. Electrical Engineering </li>
