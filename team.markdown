@@ -187,7 +187,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 <div class="column">
     <div class="card">
-      <img src="/teampics/harishitha.jpg" class="rounded-corners" alt="JL" width=70 height=95>
+      <img src="/teampics/harishitha.jpg" class="rounded-corners" alt="JL" width=80 height=95>
       <div class="container">
         <h4>Harishitha Dameria</h4>
         <li> Manager, Data Integration and Provider Analytics@Watson Health</li>
