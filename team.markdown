@@ -45,7 +45,7 @@ body {
 background-color: rgb(241,236,238);
 background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,196,1) 75%);
 }
-  
+
 </style>
 
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
@@ -59,13 +59,13 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=80 height=70>
       <div class="container">
         <h4>Andrew St. John</h4>
-        <li> Analytics Lead </li>
+        <li> Analytics Lead &amp; Mentor </li>
         <li> B.S. Neuroscience </li>
 <!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
         <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a>
 <!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a>
+        <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a> 
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Ayrton Didhier Mondragon</h4>
-        <li> ML Engineering Lead</li>
+        <li> ML Engineering Lead &amp; Mentor</li>
         <li> M.Eng. Information Technologies and Communications </li>
         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a>
 <!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
@@ -169,9 +169,26 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <p><h1>MLOR Mentorship</h1></p>
 <hr>
 <div class='row'>
+
+<div class="column">
+    <div class="card">
+      <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=85 height=95>
+      <div class="container">
+        <h4>Aishwarya Bhupatiraju</h4>
+        <li>  Data Scientist @ Finance and Operations</li>
+        <li> Data Scientist - Machine Learning Engineering</li>
+        <li> B.S Data Science </li>
+        <li> <em>Mentor: Ayrton</em></li>
+        <a href="http://linkedin.com/in/aishwarya-bhupatiraju"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.berkeley.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="Aishwarya.Bhupatiraju@ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
  <div class="column">
     <div class="card">
-      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=75 height=70>
+      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=85 height=80>
       <div class="container">
         <h4>Daniel Rodriguez</h4>
         <li> Software Engineer@Supply Chain </li>
@@ -184,6 +201,27 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
  </div>
+
+<div class="column">
+    <div class="card">
+      <img src="/teampics/harishitha.jpg" class="rounded-corners" alt="JL" width=80 height=95>
+      <div class="container">
+        <h4>Harishitha Dameria</h4>
+        <li> Manager, Data Integration and Provider Analytics@Watson Health</li>
+        <li> Data Scientist - Analytics</li>
+        <li> M.S. Bioinformatics </li>
+        <li> <em>Mentor: Andrew</em></li>
+        <a href="https://www.linkedin.com/in/harishitha-damerla/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.njit.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
+</div>
+
+<div class="row">
+
 <div class="column">
     <div class="card">
       <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
@@ -216,21 +254,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
  </div>
 
- <div class="column">
-    <div class="card">
-      <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=70 height=95>
-      <div class="container">
-        <h4>Aishwarya Bhupatiraju</h4>
-        <li>  Data Scientist @ Finance and Operations</li>
-        <li> Data Scientist - Machine Learning Engineering</li>
-        <li> B.S Data Science </li>
-        <li> <em>Mentor: Ayrton</em></li>
-        <a href="http://linkedin.com/in/aishwarya-bhupatiraju"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.berkeley.edu/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="Aishwarya.Bhupatiraju@ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div>
+ 
 
 </div>
 <br/>
