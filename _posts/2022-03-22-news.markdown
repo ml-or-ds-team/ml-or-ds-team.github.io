@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Aishwarya Bhupatiraju joined the team as Machine Learning Engineer (MLOR mentorship)."
+author: MLOR Team
+date:   2022-03-23 12:07 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+<img src="/teampics/aishwarya.png" class="rounded-corners" alt="am" width=90 height=125>
+
+We are happy to share that <b>Aishwarya Bhupatiraju</b> <a href="http://linkedin.com/in/aishwarya-bhupatiraju/"><i class="fab fa-linkedin"></i></a> joined the team as data scientist and prospective machine learning engineer. Aishwarya graduated undergrad from UC Berkeley with a major in Data Science and a minor in Computer Science in May 2020. She interned at IBM in summer 2019 and started working full-time in September 2020. She enjoys working on data science and machine learning projects!
+
+Aishwarya will work closely with her mentor <b>Ayrton Didhier Mondragon</b> <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> and the rest of the team to push forward our capability in the Data Science field.
+
+Welcome, Aishwarya!
