@@ -12,8 +12,10 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
   
 </style>
 
-{% assign posts = site.categories['news'] %}
+{% for post in site.posts %} 
+{% assign author = site.authors[page.author] %} 
 
-{% for post in posts %}
-<img src="{{ site.baseurl }}/{{ post.img }}">
+{: .avatar .avatar-sm }
+![{{ post.author }}]({{ author.image | relative_url }})
+
 {% endfor %}
