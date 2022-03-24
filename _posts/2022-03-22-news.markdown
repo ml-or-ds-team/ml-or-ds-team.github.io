@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Harishitha Dameria joined the team as Data Scientist in Analytics (MLOR mentorship)."
+title:  "Harishitha Damerla joined the team as Data Scientist in Analytics (MLOR mentorship)."
 author: MLOR Team
 date:   2022-03-22 15:06 -0400
 categories: news
@@ -20,7 +20,7 @@ img {
 
 <img src="/teampics/harishitha.jpg" class="rounded-corners" alt="am" width=85 height=105>
 
-We are very excited to annouce that <b>Harishitha Dameria</b> <a href="https://www.linkedin.com/in/harishitha-damerla/"><i class="fab fa-linkedin"></i></a> joined the team as <b>Data Scientist in Analytics</b>. 
+We are very excited to annouce that <b>Harishitha Damerla</b> <a href="https://www.linkedin.com/in/harishitha-damerla/"><i class="fab fa-linkedin"></i></a> joined the team as <b>Data Scientist in Analytics</b>. 
 
 Harishitha has been with IBM Watson Health (and Explorys) for 8 years under population health and big data analytics sector, during which she gained extensive experience in discovery of healthcare and financial data from partners by analyzing a variety of EMR's, HL7s, 837s, Claims as the sources, acquiring high volumes of remote data, applying the massively-parallel data processing techniques, integrating the data using meaningful-use guidelines into IBM Watson Health platform and standardizing the data using clinical ontologies in order to streamline the data in across all organizations. <br/>
 
