@@ -206,8 +206,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     <div class="card">
       <img src="/teampics/harishitha.jpg" class="rounded-corners" alt="JL" width=80 height=95>
       <div class="container">
-        <h4>Harishitha Dameria</h4>
-        <li> Manager, Data Integration and Provider Analytics@Watson Health</li>
+        <h4>Harishitha Damerla</h4>
+        <li> Manager, Data Integration, Software and Services@Watson Health</li>
         <li> Data Scientist - Analytics</li>
         <li> M.S. Bioinformatics </li>
         <li> <em>Mentor: Andrew</em></li>
