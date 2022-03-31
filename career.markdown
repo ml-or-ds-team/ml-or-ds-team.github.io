@@ -46,7 +46,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <hr>
 <br/>
 <h3><a href='https://ml-or-ds-team.github.io/career/analytics.html'>Data Scientist - Analytics</a>
-<p style="color:red"> -- No longer accepting applications for core member, but still open for mentorship</p></h3>
+<p style="color:red"> -- No longer accepting applications</p></h3>
 <hr>
 <br/>
 
