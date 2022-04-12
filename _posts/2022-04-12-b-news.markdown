@@ -28,7 +28,7 @@ img {
 
 We are excited to share that the <b>MLOR Data Science team</b> has been invited to speak at the <em>2022 IBM Supply Chain Digital Growth Expo</em>! Each year, this 3-day virtual conference seeks to inspire members of the IBM Supply Chain to create, invent, innovate, and deliver new technology using new ways of working.
 
-Our team will give a high-level, interactive presentation on machine learning, and how it can be applied in transform and digitilize the supply chain, featuring real-world applications from one of our projects that saved 5 million dollars in investment cost for the manufacturing department. Be sure to tune in on Tuesday May 10th at 1 pm ET to watch the team present!
+Our team will give a high-level, interactive presentation on machine learning, and how it can be applied in transforming the supply chain, featuring the real-world applications from one of our projects that saved 5 million dollars in investment cost for the manufacturing department. Be sure to tune in on Tuesday May 10th at 1 pm ET to watch the team present!
 
 
 <figure>
