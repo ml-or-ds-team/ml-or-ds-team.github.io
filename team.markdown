@@ -175,7 +175,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=85 height=95>
       <div class="container">
         <h4>Aishwarya Bhupatiraju</h4>
-        <li>  Data Scientist @ Finance and Operations</li>
+        <li>  Data Scientist@Finance and Operations</li>
         <li> Data Scientist - Machine Learning Engineering</li>
         <li> B.S Data Science </li>
         <li> <em>Mentor: Ayrton</em></li>
@@ -244,7 +244,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
         <h4>Jina Lee</h4>
-        <li> Data Management Consultant @ Watson Health</li>
+        <li> Data Management Consultant@Watson Health</li>
         <li> Data Scientist - Machine Learning Engineering</li>
         <li> M.S. Data Science </li>
         <li> <em>Mentor: Ayrton</em></li>
@@ -260,7 +260,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/joey.jpg" class="rounded-corners" alt="JL" width=75 height=95>
       <div class="container">
         <h4>Joey Badley</h4>
-        <li> Data Scientist @ AI &amp; Analytics</li>
+        <li> Data Scientist@AI &amp; Analytics</li>
         <li> Data Scientist - Analytics</li>
         <li> B.S. Computer Science and Media </li>
         <li> <em>Mentor: Andrew</em></li>
