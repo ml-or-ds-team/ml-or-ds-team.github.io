@@ -35,25 +35,20 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 
 
-<p><h4>Grow your Data Science expertise with MLOR team</h4></p>
+<p><h4>Make impact and contribute to the Data Science community with MLOR Team</h4></p>
 
-<p>We welcome everyone with passion in Data Science, Machine Learning, Applied Mathematics and Computer Science to join us as part of the MLOR team. You could be experts in one or multiple Data Science fields and looking for opportunities to own your work, build success and make business impact. You could be applied scientist, researchers, engineers or business subject matter experts, and you would love to grow your expertise in data science. Together, we can make a better team.</p>
-  
-<p><h4>We are looking for the following roles:</h4></p>  
+<p>We welcome everyone with passion in Data Science, Machine Learning, Applied Mathematics and Computer Science to contact us for collaboration, (future opportunities of) joining the team, and open-source and/or volunteering projects. The team is also actively engaged in the data science communities, where we are making contributions by giving talks, publishing articles, and providing mentorship. We welcome any thoughts of prospering the broad data science field.</p>
+
+<p><h4>Perspective role openinng</h4></p>
 <br/>
 <h3><a href="https://ml-or-ds-team.github.io/career/mle.html">Data Scientist - Machine Learning Engineering</a>
-<p style="color:red"> -- No longer accepting applications</p></h3>
+<p style="color:red"> -- Currently in progress of opening</p></h3>
 <hr>
 <br/>
-<h3><a href='https://ml-or-ds-team.github.io/career/analytics.html'>Data Scientist - Analytics</a>
-<p style="color:red"> -- No longer accepting applications</p></h3>
+<p><h4><a href="https://ml-or-ds-team.github.io/career/career_archive.html">Check our most recent fulfilled roles</a>
+</h4></p>
+<br/>
+<h3><a href="https://ml-or-ds-team.github.io/career/mle.html">Data Scientist - Machine Learning Engineering</a>
+<h3><a href="https://ml-or-ds-team.github.io/career/mle.html">Data Scientist - Machine Learning Engineering</a>
 <hr>
 <br/>
-
-<p><h4>For both roles, there are two options for you to join the team:</h4></p>
-<p>
-<ul>
-<li>Join us as a <b>core team member</b>: being a core member means you will make a great contribution as the rest of the core team does. It also means you will help us build the team and bring your talent to the growth of the team. At the same time, we encourage you to be a mentor and help others in the data science community!</li>
-<br/>
-<li>Join us as a <b>mentee</b>: you will have a designated mentor from the core team. Your mentor and the rest of the team will help you grow. Being a mentee doesn't mean you are remote from the work the rest of team does, instead, we expect to work with you on real projects and learn from you!</li>
-</ul></p>
