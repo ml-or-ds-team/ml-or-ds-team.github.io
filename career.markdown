@@ -41,11 +41,11 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 <p><h4>Prospective role openinng</h4></p>
 <br/>
-<h5><a href="https://ml-or-ds-team.github.io/career/data_engineering.html">Data Engineer</a>
-<p style="color:red"> -- Currently in progress of opening</p></h5>
+<h4><a href="https://ml-or-ds-team.github.io/career/data_engineering.html">Data Engineer</a>
+<p style="color:red"> -- Currently in progress of opening</p></h4>
 <hr>
 <br/>
-<h4><a href="https://ml-or-ds-team.github.io/career/career_archive.html">Most recent fulfilled roles</a>
+<h4><a href="https://ml-or-ds-team.github.io/career/archive.html">Most recent fulfilled roles</a>
 </h4>
 <br/>
 <ul>
