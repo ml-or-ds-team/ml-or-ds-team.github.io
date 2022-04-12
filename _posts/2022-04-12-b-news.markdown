@@ -2,7 +2,7 @@
 layout: post
 title:  "MLOR team will speak at IBM Supply Chain Digital Growth Expo 2022!"
 author: Andrew St.John
-date:   2022-04-14 12:56 -0400
+date:   2022-04-12 12:56 -0400
 categories: news
 ---
 <style>
