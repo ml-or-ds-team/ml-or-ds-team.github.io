@@ -197,6 +197,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> <em>Mentor: Andrew</em></li>
         <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.bennett.edu.in/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://twitter.com/AryanLala20"><i class="fab fa-twitter-square"></i></a>
         <a href="mailto:Aryan.Lala@ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
@@ -266,7 +267,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> <em>Mentor: Andrew</em></li>
         <a href="https://www.linkedin.com/in/joey-badey-609839219/"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.en.w-hs.de/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="https://github.com/BadeJoey"><i class="fa-brands fa-github-square"></i></a>
+        <a href="https://github.com/BadeJoey"><i class="fab fa-github-square"></i></a>
         <a href="mailto:joey.badey@ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
