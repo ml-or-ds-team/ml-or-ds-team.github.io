@@ -28,13 +28,13 @@ img {
 
 We are happy to share that <b>Aryan Lala</b> <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a> and <b>Joey Badley</b> <a href="https://www.linkedin.com/in/joey-badey-609839219/"><i class="fab fa-linkedin"></i></a> joined the team as data scientists and prospective quantitative researchers. 
 
-<img src="/teampics/aryan.png" class="rounded-corners" alt="am" width=90 height=125>
+<img src="/teampics/aryan.png" class="rounded-corners" alt="am" width=100 height=115>
 
 Aryan is currently a senior undergraduate at Bennett University and will graduate in 2022. He joined IBM at India Software Labs as an Intern in Jan 2022. Aryan is strongly interested in machine learning and developing his career in the fields of ML and AI. During his tenure as undergraduate as well as his internship at IBM, he has been able to work on multiple ML projects and published two research papers. Aryan enjoys learning new stuff and solving complex real-world applications.
 
 <img src="/teampics/joey.jpg" class="rounded-corners" alt="am" width=90 height=125>
 
-Joey graduated undergraduate with a degree in Computer Science and Media in 2021. He joined IBM as a data scientist in AI and Analytics. Prior to joining IBM, Joey had an intensive focus on deep learning, where he worked with the Fraunhofer Institute to transform health signals in the time series context. Joey loves working with data and develping skills in ML. With the team, Joey is excited to step into the field of data analytics.
+Joey graduated undergraduate with a degree in Computer Science and Media in 2021. He joined IBM as a data scientist in AI and Analytics. Prior to joining IBM, Joey had an intensive focus on deep learning, where he worked with the Fraunhofer Institute to transform health signals in a time series context. Joey loves working with data and develping skills in ML. With the team, Joey is excited to step into the field of data analytics.
 
 Aryan and Joey will work closely with their mentor <b>Andrew St.John</b> and the rest of the team to push forward our capability in the analytical track.
 
