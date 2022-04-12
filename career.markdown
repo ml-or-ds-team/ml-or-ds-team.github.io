@@ -39,7 +39,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 <p>We welcome everyone with passion in Data Science, Machine Learning, Applied Mathematics and Computer Science to contact us for collaboration, (future opportunities of) joining the team, and open-source and/or volunteering projects. The team is also actively engaged in the data science communities, where we are making contributions by giving talks, publishing articles, and providing mentorship. We welcome any thoughts of prospering the broad data science field.</p>
 
-<p><h4>Perspective role openinng</h4></p>
+<p><h4>Prospective role openinng</h4></p>
 <br/>
 <h5><a href="https://ml-or-ds-team.github.io/career/data_engineering.html">Data Engineer</a>
 <p style="color:red"> -- Currently in progress of opening</p></h5>
