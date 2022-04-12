@@ -44,7 +44,11 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <p style="color:red"> -- Currently in progress of opening</p></h4>
 <hr>
 <br/>
-<h4><a href="https://ml-or-ds-team.github.io/career/archive.html">Check our most recent fulfilled roles</a>
+<h4><a href="https://ml-or-ds-team.github.io/career/archive.html">Our most recent fulfilled roles</a>
+</h4>
+<hr>
+<br/>
+<h4><a href="https://ml-or-ds-team.github.io/career/mentorship.html">MLOR Mentorship Program</a>
 </h4>
 <hr>
 <br/>

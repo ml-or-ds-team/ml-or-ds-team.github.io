@@ -35,9 +35,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <br/>
 <p style="color:DodgerBlue;">Latest Update<p>
 <p></p>
-<p><h3 style="color:Tomato;">Mar 14, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/04/12/b-news.html'>
+<p><h3 style="color:Tomato;">April 12, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/04/12/b-news.html'>
 MLOR team will speak at Supply Chain Digital Growth Expo 2022.</a></h3></p>
-<p><h3 style="color:Tomato;">Mar 11, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/04/12/news.html'>
+<p><h3 style="color:Tomato;">April 12, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/04/12/news.html'>
 Aryan Lala and Joey Badey joined the team as Data Scientist in Analytics (MLOR mentorship).</a></h3></p>
 <p><h3 style="color:Tomato;">Mar 23, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/03/23/news.html'>
 Aishwarya Bhupatiraju joined the team as Machine Learning Engineer (MLOR mentorship).
