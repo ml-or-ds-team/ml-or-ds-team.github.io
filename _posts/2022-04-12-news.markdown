@@ -26,7 +26,7 @@ img {
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
-We are happy to share that <b>Aryan Lala</b> <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a> and <b>Joey Badley</b> <a href="https://www.linkedin.com/in/joey-badey-609839219/"><i class="fab fa-linkedin"></i></a> joined the team as data scientists and prospective quantitative researchers. 
+We are happy to share that <b>Aryan Lala</b> <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a> and <b>Joey Badey</b> <a href="https://www.linkedin.com/in/joey-badey-609839219/"><i class="fab fa-linkedin"></i></a> joined the team as data scientists and prospective quantitative researchers. 
 
 <img src="/teampics/aryan.png" class="rounded-corners" alt="am" width=100 height=115>
 

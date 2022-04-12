@@ -260,7 +260,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     <div class="card">
       <img src="/teampics/joey.jpg" class="rounded-corners" alt="JL" width=75 height=95>
       <div class="container">
-        <h4>Joey Badley</h4>
+        <h4>Joey Badey</h4>
         <li> Data Scientist@AI &amp; Analytics</li>
         <li> Data Scientist - Analytics</li>
         <li> B.S. Computer Science and Media </li>
