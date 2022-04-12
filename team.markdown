@@ -186,6 +186,22 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
  </div>
 
+<div class="column">
+    <div class="card">
+      <img src="/teampics/aryan.png" class="rounded-corners" alt="am" width=85 height=85>
+      <div class="container">
+        <h4>Aryan Lala</h4>
+        <li> Intern@ISL Cloud </li>
+        <li> Data Scientist - Analytics</li>
+        <li> Senior Undergraduate </li>
+        <li> <em>Mentor: Andrew</em></li>
+        <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.bennett.edu.in/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:Aryan.Lala@ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div> 
+
  <div class="column">
     <div class="card">
       <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=85 height=80>
@@ -201,6 +217,10 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
  </div>
+
+</div>
+
+<div class="row">
 
 <div class="column">
     <div class="card">
@@ -218,16 +238,13 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
  </div>
 
-</div>
-
-<div class="row">
 
 <div class="column">
     <div class="card">
       <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
         <h4>Jina Lee</h4>
-        <li> Data Management Consultant@Watson Health</li>
+        <li> Data Management Consultant @ Watson Health</li>
         <li> Data Scientist - Machine Learning Engineering</li>
         <li> M.S. Data Science </li>
         <li> <em>Mentor: Ayrton</em></li>
@@ -237,6 +254,27 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       </div>
     </div>
  </div>
+
+<div class="column">
+    <div class="card">
+      <img src="/teampics/joey.jpg" class="rounded-corners" alt="JL" width=75 height=95>
+      <div class="container">
+        <h4>Joey Badley</h4>
+        <li> Data Scientist @ AI &amp; Analytics</li>
+        <li> Data Scientist - Analytics</li>
+        <li> B.S. Computer Science and Media </li>
+        <li> <em>Mentor: Andrew</em></li>
+        <a href="https://www.linkedin.com/in/joey-badey-609839219/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.en.w-hs.de/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://github.com/BadeJoey"><i class="fa-brands fa-github-square"></i></a>
+        <a href="mailto:joey.badey@ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
+</div>
+
+<div class="row">
 
 <div class="column">
     <div class="card">
