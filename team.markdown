@@ -240,7 +240,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
  </div>
 
 
-<div class="column">
+<!-- <div class="column">
     <div class="card">
       <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
@@ -254,7 +254,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
- </div>
+ </div> -->
 
 <div class="column">
     <div class="card">
@@ -297,20 +297,20 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 </div>
 <br/>
-<p><h1>MLOR Partners</h1></p>
+<p><h1>MLOR Alumni</h1></p>
 <hr>
 <div class='row'>
  <div class="column">
     <div class="card">
-      <img src="/teampics/paul.jpg" class="rounded-corners" alt="am" width=75 height=70>
+      <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
-        <h4>Paul Balcaen</h4>
-        <li> Cognitive Supply Chain Expert@Supply Chain </li>
-        <li> Business Partner@MLOR</li>
-        <li> M.S. Finance &amp; M.S. Supply Chain Management </li>
-        <a href="http://linkedin.com/in/paul-balcaen-533470"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.ulb.be/en"><i class="fas fa-graduation-cap"></i></a>
-        <a href="mailto:paul_balcaen@yahoo.com"><i class="fas fa-envelope"></i></a>
+        <h4>Jina Lee</h4>
+        <li> Data Scientist@Discovery Financial Services</li>
+        <li> M.S. Data Science </li>
+        <li> <em>Mentorship - 2/2022 - 6/2022</em></li>
+        <a href="https://www.linkedin.com/in/jina-lee-513a6119a"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.indiana.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <!-- <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a> -->
       </div>
     </div>
  </div>
