@@ -273,10 +273,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
  </div>
 
-</div>
-
-<div class="row">
-
 <div class="column">
     <div class="card">
       <img src="/teampics/mehdi.jpg" class="rounded-corners" alt="JL" width=70 height=95>
@@ -305,9 +301,10 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
         <h4>Jina Lee</h4>
-        <li> Data Scientist@Discovery Financial Services</li>
+        <li> Data Scientist</li>
+        <li> Discovery Financial Services</li>
         <li> M.S. Data Science </li>
-        <li> <em>Mentorship - 2/2022 - 6/2022</em></li>
+        <li> <em>Mentee 2/2022 - 6/2022</em></li>
         <a href="https://www.linkedin.com/in/jina-lee-513a6119a"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.indiana.edu/"><i class="fas fa-graduation-cap"></i></a>
         <!-- <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a> -->
