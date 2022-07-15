@@ -332,7 +332,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <div class="container">
         <h4>Mehdi El Haylali</h4>
         <li> IBM Consulting</li>
-        <li> Data Scientist - Machine Learning Engineering</li>
+        <li> Data Scientist</li>
         <li> M.Eng. Data Science </li>
         <li> <em>Mentee 2/2022 - 7/2022</em></li>
         <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a>
