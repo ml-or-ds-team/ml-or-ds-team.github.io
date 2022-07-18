@@ -372,7 +372,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.bennett.edu.in/"><i class="fas fa-graduation-cap"></i></a>
         <a href="https://twitter.com/AryanLala20"><i class="fab fa-twitter-square"></i></a>
-        <a href="mailto:Aryan.Lala@ibm.com"><i class="fas fa-envelope"></i></a>
+        <a href="mailto:aryan.lala1@ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
  </div> 
