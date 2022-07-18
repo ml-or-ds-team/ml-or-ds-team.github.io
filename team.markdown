@@ -300,7 +300,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <div class="container">
         <h4>Jina Lee</h4>
         <li> Sr. Data Science Analyst</li>
-        <li> Discovery Financial Services</li>
+        <li> Discover Financial Services</li>
         <li> M.S. Data Science </li>
         <li> <em>Mentee 2/2022 - 6/2022</em></li>
         <a href="https://www.linkedin.com/in/jina-l-513a6119a/"><i class="fab fa-linkedin"></i></a>
