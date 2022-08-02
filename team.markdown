@@ -302,7 +302,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> Sr. Data Science Analyst</li>
         <li> Discover Financial Services</li>
         <li> M.S. Data Science </li>
-        <li> <em>Mentee 2/2022 - 6/2022</em></li>
         <a href="https://www.linkedin.com/in/jina-l-513a6119a/"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.indiana.edu/"><i class="fas fa-graduation-cap"></i></a>
         <!-- <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a> -->
@@ -318,7 +317,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> Manager, Data Integrations, Software and Services</li>
         <li> Watson Health</li>
         <li> M.S. Bioinformatics </li>
-        <li> <em>Mentee 2/2022 - 7/2022</em></li>
         <a href="https://www.linkedin.com/in/harishitha-damerla/"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.njit.edu/"><i class="fas fa-graduation-cap"></i></a>
         <!-- <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a> -->
@@ -334,7 +332,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> IBM Consulting</li>
         <li> Data Scientist</li>
         <li> M.Eng. Data Science </li>
-        <li> <em>Mentee 2/2022 - 7/2022</em></li>
         <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a>
         <a href="http://www.centrale-casablanca.ma/fr/"><i class="fas fa-graduation-cap"></i></a>
         <!-- <a href="mailto:mehdi.el.haylali@gmail.com"><i class="fas fa-envelope"></i></a> -->
@@ -352,7 +349,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
           <li> Software Development Engineer</li>
           <li> Amazon</li>
           <li> B.S Data Science </li>
-          <li> <em>Mentee 2/2022 - 7/2022</em></li>
           <a href="http://linkedin.com/in/aishwarya-bhupatiraju"><i class="fab fa-linkedin"></i></a>
           <a href="https://www.berkeley.edu/"><i class="fas fa-graduation-cap"></i></a>
           <!-- <a href="Aishwarya.Bhupatiraju@ibm.com"><i class="fas fa-envelope"></i></a> -->
@@ -368,7 +364,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> IBM Cloud  </li>
         <li> Software Developer</li>
         <li> B.S. Computer Science </li>
-        <li> <em>Mentee 2/2022 - 7/2022</em></li>
         <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.bennett.edu.in/"><i class="fas fa-graduation-cap"></i></a>
         <a href="https://twitter.com/AryanLala20"><i class="fab fa-twitter-square"></i></a>
