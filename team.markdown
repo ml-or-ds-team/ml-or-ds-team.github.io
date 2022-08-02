@@ -329,8 +329,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/mehdi.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
         <h4>Mehdi El Haylali</h4>
-        <li> IBM Consulting</li>
         <li> Data Scientist</li>
+        <li> IBM Consulting</li>
         <li> M.Eng. Data Science </li>
         <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a>
         <a href="http://www.centrale-casablanca.ma/fr/"><i class="fas fa-graduation-cap"></i></a>
@@ -361,8 +361,8 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/aryan.png" class="rounded-corners" alt="am" width=85 height=85>
       <div class="container">
         <h4>Aryan Lala</h4>
-        <li> IBM Cloud  </li>
         <li> Software Developer</li>
+        <li> IBM Cloud  </li>
         <li> B.S. Computer Science </li>
         <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.bennett.edu.in/"><i class="fas fa-graduation-cap"></i></a>
