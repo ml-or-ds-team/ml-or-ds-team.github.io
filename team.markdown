@@ -261,7 +261,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/joey.jpg" class="rounded-corners" alt="JL" width=75 height=95>
       <div class="container">
         <h4>Joey Badey</h4>
-        <li> Data Scientist@AI &amp; Analytics</li>
+        <li> Data Scientist @ AI &amp; Analytics</li>
         <li> Data Scientist - Analytics</li>
         <li> B.S. Computer Science and Media </li>
         <li> <em>Mentor: Andrew</em></li>
@@ -278,7 +278,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
       <img src="/teampics/marius.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
         <h4>Marius Pullig</h4>
-        <li> Data Scientist@IBM AI &amp; Analytics</li>
+        <li> Data Scientist @ AI &amp; Analytics</li>
         <li> Data Scientist - Analytics</li>
         <li> M.S. Computer Science & Management </li>
         <li> <em>Mentor: Andrew</em></li>
