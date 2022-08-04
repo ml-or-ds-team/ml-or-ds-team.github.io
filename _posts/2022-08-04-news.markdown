@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Marius Pullig joined the team as Data Scientist in Analytics (MLOR mentorship)."
+author: MLOR Team
+date:   2022-08-04 12:25 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+We are happy to share that <b>Marius Pullig</b> <a href="https://www.linkedin.com/in/marius-pullig/"><i class="fab fa-linkedin"></i></a> joined the team as data scientists and prospective quantitative researchers. 
+
+<img src="/teampics/marius.jpg" class="rounded-corners" alt="am" width=70 height=95>
+
+Marius earned his Master of Science in Computer Science & Management at Technical University of Berlin and joined IBM Consulting as a Associate Data Scientist.
+Prior to his role at IBM, he worked as a Data Scientist at the Charité University Hospital focusing on deep learning applications in medical image segmentation. Marius enjoys working on in-production projects and applying machine learning algorithms in various industries.
+
+Marius will work closely with his mentor <b>Andrew St.John</b> and the rest of the team to push forward our capability in the analytical track.
+
+Welcome, Marius!
