@@ -273,21 +273,21 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
  </div>
 
-<!-- <div class="column">
+<div class="column">
     <div class="card">
-      <img src="/teampics/mehdi.jpg" class="rounded-corners" alt="JL" width=70 height=95>
+      <img src="/teampics/marius.jpg" class="rounded-corners" alt="JL" width=70 height=95>
       <div class="container">
-        <h4>Mehdi El Haylali</h4>
-        <li> Data Scientist@IBM Consulting / AI &amp; Analytics Practice</li>
-        <li> Data Scientist - Machine Learning Engineering</li>
-        <li> M.Eng. Data Science </li>
-        <li> <em>Mentor: Ayrton</em></li>
-        <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a>
-        <a href="http://www.centrale-casablanca.ma/fr/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="mailto:mehdi.el.haylali@gmail.com"><i class="fas fa-envelope"></i></a>
+        <h4>Marius Pullig</h4>
+        <li> Data Scientist@IBM AI &amp; Analytics</li>
+        <li> Data Scientist - Analytics</li>
+        <li> M.S. Computer Science & Management </li>
+        <li> <em>Mentor: Andrew</em></li>
+        <a href="https://www.linkedin.com/in/marius-pullig/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.tu.berlin/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:Marius.Pullig@ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
- </div> -->
+ </div>
 </div>
 
 <br/>
