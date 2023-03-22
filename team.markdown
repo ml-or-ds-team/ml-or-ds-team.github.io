@@ -121,7 +121,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li>B.S. Data Science</li>
         <a href="https://www.linkedin.com/in/ayushmore/"><i class="fab fa-linkedin"></i></a>
         <a href="https://ucsd.edu/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="https://ayushmore.github.io/"><i class="fa-brands fa-github"></i></a>
+        <a href="https://ayushmore.github.io/"><i class="fab fa-github"></i></a>
         <a href="mailto:amore@ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
@@ -154,7 +154,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>
         <!-- <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
         <a href="https://engineering.lehigh.edu/ise/faculty/post-docs-and-phd-students"><i class="fas fa-graduation-cap"></i></a>
-        <a href="https://ayushmore.github.io/"><i class="fa-brands fa-github"></i></a>
+        <a href="https://github.com/shizheng-rlfresh"><i class="fab fa-github"></i></a>
         <a href="https://scholar.google.com/citations?user=YurlyCoAAAAJ&hl=en"><i class="ai ai-google-scholar-square"></i></a>
         <a href="mailto:shi.zheng.tfls@gmail.com"><i class="fas fa-envelope"></i></a>
       </div>
@@ -163,9 +163,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 </div>
 
 <br/>
-<hr>
 
 <p><h1>Data Analytics &amp; Engineering</h1></p>
+<hr>
 <div class='row'>
 <div class="column">
     <div class="card">
@@ -240,139 +240,13 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
  </div>
 
  <br/>
-<hr>
-
-<p><h1>MLOR Mentorship</h1></p>
-<hr>
-<div class='row'>
-
-<!-- <div class="column">
-    <div class="card">
-      <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=85 height=95>
-      <div class="container">
-        <h4>Aishwarya Bhupatiraju</h4>
-        <li>  Data Scientist@Finance and Operations</li>
-        <li> Data Scientist - Machine Learning Engineering</li>
-        <li> B.S Data Science </li>
-        <li> <em>Mentor: Ayrton</em></li>
-        <a href="http://linkedin.com/in/aishwarya-bhupatiraju"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.berkeley.edu/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="Aishwarya.Bhupatiraju@ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div> -->
-
-<!-- <div class="column">
-    <div class="card">
-      <img src="/teampics/aryan.png" class="rounded-corners" alt="am" width=85 height=85>
-      <div class="container">
-        <h4>Aryan Lala</h4>
-        <li> Intern@ISL Cloud </li>
-        <li> Data Scientist - Analytics</li>
-        <li> Senior Undergraduate </li>
-        <li> <em>Mentor: Andrew</em></li>
-        <a href="https://www.linkedin.com/in/aryanlala"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.bennett.edu.in/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="https://twitter.com/AryanLala20"><i class="fab fa-twitter-square"></i></a>
-        <a href="mailto:Aryan.Lala@ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div>  -->
-
- <div class="column">
-    <div class="card">
-      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=85 height=80>
-      <div class="container">
-        <h4>Daniel Rodriguez</h4>
-        <li> Software Engineer@Supply Chain </li>
-        <li> DevOp</li>
-        <li> M.S. Electrical Engineering </li>
-        <li> <em>Mentor: Mark</em></li>
-        <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.utep.edu/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="mailto:danirg.id25@gmail.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div>
-
-<!-- </div> -->
-
-<!-- <div class="row"> -->
-
-<!-- <div class="column">
-    <div class="card">
-      <img src="/teampics/harishitha.jpg" class="rounded-corners" alt="JL" width=80 height=95>
-      <div class="container">
-        <h4>Harishitha Damerla</h4>
-        <li> Manager, Data Integrations, Software and Services@Watson Health</li>
-        <li> Data Scientist - Analytics</li>
-        <li> M.S. Bioinformatics </li>
-        <li> <em>Mentor: Andrew</em></li>
-        <a href="https://www.linkedin.com/in/harishitha-damerla/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.njit.edu/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div> -->
-
-
-<!-- <div class="column">
-    <div class="card">
-      <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
-      <div class="container">
-        <h4>Jina Lee</h4>
-        <li> Data Management Consultant@Watson Health</li>
-        <li> Data Scientist - Machine Learning Engineering</li>
-        <li> M.S. Data Science </li>
-        <li> <em>Mentor: Ayrton</em></li>
-        <a href="https://www.linkedin.com/in/jina-lee-513a6119a"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.indiana.edu/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div> -->
-
-<div class="column">
-    <div class="card">
-      <img src="/teampics/joey.jpg" class="rounded-corners" alt="JL" width=75 height=95>
-      <div class="container">
-        <h4>Joey Badey</h4>
-        <li> Data Scientist @ AI &amp; Analytics</li>
-        <li> Data Scientist - Analytics</li>
-        <li> B.S. Computer Science and Media </li>
-        <li> <em>Mentor: Andrew</em></li>
-        <a href="https://www.linkedin.com/in/joey-badey-609839219/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.en.w-hs.de/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="https://github.com/BadeJoey"><i class="fab fa-github-square"></i></a>
-        <a href="mailto:joey.badey@ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div>
-
-<div class="column">
-    <div class="card">
-      <img src="/teampics/marius.jpg" class="rounded-corners" alt="JL" width=70 height=95>
-      <div class="container">
-        <h4>Marius Pullig</h4>
-        <li> Data Scientist @ AI &amp; Analytics</li>
-        <li> Data Scientist - Analytics</li>
-        <li> M.S. Computer Science & Management </li>
-        <li> <em>Mentor: Andrew</em></li>
-        <a href="https://www.linkedin.com/in/marius-pullig/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.tu.berlin/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="mailto:Marius.Pullig@ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
- </div>
-</div>
-
-<br/>
+ 
 <p><h1>MLOR Alumni</h1></p>
 <hr>
 <div class='row'>
  <div class="column">
     <div class="card">
-      <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=70 height=95>
+      <img src="/teampics/jina.jpg" class="rounded-corners" alt="JL" width=50 height=70>
       <div class="container">
         <h4>Jina Lee</h4>
         <li> Sr. Data Science Analyst</li>
@@ -387,7 +261,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
  <div class="column">
     <div class="card">
-      <img src="/teampics/harishitha.jpg" class="rounded-corners" alt="JL" width=80 height=95>
+      <img src="/teampics/harishitha.jpg" class="rounded-corners" alt="JL" width=60 height=70>
       <div class="container">
         <h4>Harishitha Damerla</h4>
         <li> Manager, Data Integrations, Software and Services</li>
@@ -402,7 +276,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
  <div class="column">
     <div class="card">
-      <img src="/teampics/mehdi.jpg" class="rounded-corners" alt="JL" width=70 height=95>
+      <img src="/teampics/mehdi.jpg" class="rounded-corners" alt="JL" width=50 height=70>
       <div class="container">
         <h4>Mehdi El Haylali</h4>
         <li> Data Scientist</li>
@@ -419,7 +293,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <div class='row'>
   <div class="column">
       <div class="card">
-        <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=85 height=95>
+        <img src="/teampics/aishwarya.png" class="rounded-corners" alt="JL" width=65 height=70>
         <div class="container">
           <h4>Aishwarya Bhupatiraju</h4>
           <li> Software Development Engineer</li>
@@ -434,7 +308,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
   <div class="column">
     <div class="card">
-      <img src="/teampics/aryan.png" class="rounded-corners" alt="am" width=85 height=85>
+      <img src="/teampics/aryan.png" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Aryan Lala</h4>
         <li> Software Developer</li>
@@ -446,6 +320,22 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <a href="mailto:aryan.lala1@ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
- </div> 
+ </div>
+
+ <div class="column">
+    <div class="card">
+      <img src="/teampics/neelam.jpg" class="rounded-corners" alt="JL" width=50 height=70>
+      <div class="container">
+        <h4>Neelam Patodia</h4>
+        <li> Data Scientist</li>
+        <li> Amazon</li>
+        <li> M.S. Data Science </li>
+        <a href="https://www.linkedin.com/in/neelampatodia/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.columbia.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <!-- <a href="mailto:jina.c.lee@us.ibm.com"><i class="fas fa-envelope"></i></a> -->
+      </div>
+    </div>
+ </div>
+
 </div>
 <hr>
