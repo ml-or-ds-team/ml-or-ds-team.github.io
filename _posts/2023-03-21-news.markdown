@@ -32,6 +32,6 @@ We are happy to share that <b>Rucha Gurav</b> <a href="https://www.linkedin.com/
 
 Rucha earned her Master of Science degree in Computer Science from The University of Texas at Arlington in 2021, with a specification in Artificial Intelligence,  and is now a Software Developer at IBM Cloud Object Storage. Prior to joining IBM, she served as a back-end developer at companies such as Nutrien and Sirius XM. During her Master's program, she completed several machine learning projects, and she is passionate of expanding her expertise in this field, as it has always intrigued her. In her leisure time, she enjoys working out at the gym and playing badminton for rejuvenation.  
 
-Rucha will work closely with her mentor <b>Zheng Shi</b><a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> and the rest of the team to bring more perspectives and technical expertises in our development and ML practice!
+Rucha will work closely with her mentor <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> and the rest of the team to bring more perspectives and technical expertises in our development and ML practice!
 
 Welcome, Rucha!
