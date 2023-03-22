@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Ayrton is nominated as IBM AoT Member."
+author: MLOR Team
+date:   2022-12-15 12:25 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+<img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=85 height=85>
+
+We are happy to share that <b>Ayrton Didhier Mondragon</b> <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/?originalSubdomain=mx"><i class="fab fa-linkedin"></i></a> was nominated as an official member of <a href="https://www.ibm.com/blogs/academy-of-technology/">IBM Academy of Technology (AoT)</a>. 
+
+Julie Schuneman (AoT President): "These individuals have not only demonstrated exceptional leadership for IBM and our clients; they have also contributed significantly to our Academy through initiative work and leadership in Affiliates worldwide. An Academy membership is highly sought after as it provides a unique platform to network with the very best and brightest technical minds in IBM."
+
+Congratulations, Ayrton!
