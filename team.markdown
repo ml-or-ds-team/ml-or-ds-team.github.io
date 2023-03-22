@@ -51,81 +51,30 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<p><h1>MLOR Core</h1></p>
+<p><h1>Deep Learning \& ML Engineering</h1></p>
 <hr>
  <div class="row">
-<div class="column">
-    <div class="card">
-      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=80 height=70>
-      <div class="container">
-        <h4>Andrew St. John</h4>
-        <li> Analytics Lead &amp; Mentor </li>
-        <li> B.S. Neuroscience </li>
-<!--         <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a> -->
-<!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
-        <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a>
-<!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a> 
-      </div>
-    </div>
-  </div>
-
   <div class="column">
     <div class="card">
       <img src="/teampics/arvind.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Arvind Betrabet</h4>
-        <li> Senior Data Scientist </li>
-        <li> Ph.D. Electrical Engineering </li>
+        <li>Senior Data Scientist</li>
+        <li>Ph.D. Electrical Engineering</li>
         <a href="https://www.linkedin.com/in/arvind-betrabet-phd-68b03a1/"><i class="fab fa-linkedin"></i></a>
-<!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
         <a href="https://www.smu.edu/"><i class="fas fa-graduation-cap"></i></a>
-<!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
         <a href="mailto:arvind.betrabet@ibm.com"><i class="fas fa-envelope"></i></a>
-<!--         <a href="https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en"><i class="ai ai-google-scholar-square"></i></a> -->
       </div>
     </div>
   </div>
 
-
-<div class="column">
-    <div class="card">
-      <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=70 height=70>
-      <div class="container">
-        <h4>Ayrton Didhier Mondragon</h4>
-        <li> ML Engineering Lead &amp; Mentor</li>
-        <li> M.Eng. Information Technologies and Communications </li>
-        <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a>
-<!--         <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
-        <a href="https://www.uag.mx/"><i class="fas fa-graduation-cap"></i></a>
-<!--         <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <a href="mailto:ayrton.mondragon1@ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
-  </div>
-  
- </div>
- 
- <div class="row">
    <div class="column">
-    <div class="card">
-      <img src="/teampics/jeff.png" class="rounded-corners" alt="am" width=70 height=70>
-      <div class="container">
-        <h4>Jeff Komatsu</h4>
-        <li> MLOR Advisor </li>
-        <a href="https://www.linkedin.com/in/jeff-komatsu-215541b2/"><i class="fab fa-linkedin"></i></a>
-        <a href="mailto:komatsu@us.ibm.com"><i class="fas fa-envelope"></i></a>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
     <div class="card">
       <img src="/teampics/mark.jpg" class="rounded-corners" alt="am" width=50 height=70>
       <div class="container">
         <h4>Mark Booth</h4>
-        <li> MLOR Advisor </li>
-        <li> M.S. Industrial Engineering </li>
+        <li>Principal Data Scientist</li>
+        <li>M.S. Industrial Engineering</li>
         <a href="https://www.linkedin.com/in/mark-booth-a1844b41"><i class="fab fa-linkedin"></i></a>
         <a href="https://engineering.lehigh.edu/ise"><i class="fas fa-graduation-cap"></i></a>
         <a href="mailto:boothm@us.ibm.com"><i class="fas fa-envelope"></i></a>
@@ -133,39 +82,162 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
   </div>
 
-  <div class="column">
+<div class="column">
     <div class="card">
-      <img src="/teampics/vivek.jpg" class="rounded-corners" alt="am" width=55 height=75>
+      <img src="/teampics/ayrton_v2.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
-        <h4>Vivekanand (Vivek) Pant</h4>
-        <li> Data Scientist - Analytics</li>
-        <li> B.S. Information Technology </li>
-        <a href="https://www.linkedin.com/in/vivekanand-pant-574a76113/"><i class="fab fa-linkedin"></i></a>
-        <a href="http://www.mnnit.ac.in/"><i class="fas fa-graduation-cap"></i></a>
-        <a href="mailto:vivekpan@in.ibm.com"><i class="fas fa-envelope"></i></a>
+        <h4>Ayrton Didhier Mondragon</h4>
+        <li>ML Engineering Lead</li>
+        <li>M.Eng. Information Technologies and Communications</li>
+        <a href="https://www.linkedin.com/in/ayrton-didhier-mondragon-mejia-2401a996/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.uag.mx/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:ayrton.mondragon1@ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
   </div>
+ </div>
+ 
+ <div class="row">
+   <div class="column">
+    <div class="card">
+      <img src="/teampics/rucha.jpg" class="rounded-corners" alt="am" width=70 height=70>
+      <div class="container">
+        <h4>Rucha Gurav</h4>
+        <li>Software Developer, ML Engineering</li>
+        <li>M.S. Computer Science</li>
+        <a href="https://www.linkedin.com/in/rugurav/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.uta.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:rucha.gurav@ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/teampics/ayush.PNG" class="rounded-corners" alt="am" width=55 height=75>
+      <div class="container">
+        <h4>Ayush More</h4>
+        <li>Machine Learning Engineer</li>
+        <li>B.S. Data Science</li>
+        <a href="https://www.linkedin.com/in/ayushmore/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://ucsd.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://ayushmore.github.io/"><i class="fa-brands fa-github"></i></a>
+        <a href="mailto:amore@ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=85 height=80>
+      <div class="container">
+        <h4>Daniel Rodriguez</h4>
+        <li>Software Engineer</li>
+        <li>M.S. Electrical Engineering</li>
+        <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.utep.edu/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:danirg.id25@gmail.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
 </div>
+
 <div class="row">
  <div class="column">
     <div class="card">
       <img src="/teampics/new_touxiang.png" class="rounded-corners" alt="zs" width=75 height=75>
       <div class="container">
         <h4>Zheng Shi</h4>
-        <li> MLOR Team Lead</li>
+        <li>Team Lead</li>
         <li> Ph.D. in Machine Learning and Optimization </li>
         <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a>
+        <!-- <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
         <a href="https://engineering.lehigh.edu/ise/faculty/post-docs-and-phd-students"><i class="fas fa-graduation-cap"></i></a>
-        <!-- <a href="https://optmllab.github.io/people.html"><i class="fas fa-university"></i></a> -->
-        <!-- <a href="https://scholar.google.com/citations?user=zOp8rvkAAAAJ&hl=en"><i class="ai ai-google-scholar-square"></i></a> -->
+        <a href="https://ayushmore.github.io/"><i class="fa-brands fa-github"></i></a>
+        <a href="https://scholar.google.com/citations?user=YurlyCoAAAAJ&hl=en"><i class="ai ai-google-scholar-square"></i></a>
         <a href="mailto:shi.zheng.tfls@gmail.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
   </div>
 </div>
+
 <br/>
+
+<p><h1>Data Analytics \& Engineering</h1></p>
+<div class='row'>
+<div class="column">
+    <div class="card">
+      <img src="/teampics/joey.jpg" class="rounded-corners" alt="JL" width=75 height=95>
+      <div class="container">
+        <h4>Joey Badey</h4>
+        <li> Data Scientist, Analytics</li>
+        <li> B.S. Computer Science and Media </li>
+        <a href="https://www.linkedin.com/in/joey-badey-609839219/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.en.w-hs.de/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://github.com/BadeJoey"><i class="fab fa-github-square"></i></a>
+        <a href="mailto:joey.badey@ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
+<div class="column">
+    <div class="card">
+      <img src="/teampics/marilyn.jpeg" class="rounded-corners" alt="JL" width=75 height=95>
+      <div class="container">
+        <h4>Marilyn G. Corral</h4>
+        <li> Data Engineer</li>
+        <li> B.S. Electronics and Communications Engineering </li>
+        <a href="https://www.linkedin.com/in/marilyn-corral-1537b8115/?originalSubdomain=sg"><i class="fab fa-linkedin"></i></a>
+        <a href="http://www.plm.edu.ph/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="corralmg@sg.ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
+ <div class="column">
+    <div class="card">
+      <img src="/teampics/jeff.png" class="rounded-corners" alt="am" width=70 height=70>
+      <div class="container">
+        <h4>Jeff Komatsu</h4>
+        <li> Principal Data Scientist </li>
+        <a href="https://www.linkedin.com/in/jeff-komatsu-215541b2/"><i class="fab fa-linkedin"></i></a>
+        <a href="mailto:komatsu@us.ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+<div class="column">
+    <div class="card">
+      <img src="/teampics/marius.jpg" class="rounded-corners" alt="JL" width=70 height=95>
+      <div class="container">
+        <h4>Marius Pullig</h4>
+        <li> Data Scientist, Analytics</li>
+        <li> M.S. Computer Science & Management </li>
+        <a href="https://www.linkedin.com/in/marius-pullig/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.tu.berlin/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:Marius.Pullig@ibm.com"><i class="fas fa-envelope"></i></a>
+      </div>
+    </div>
+ </div>
+
+<div class="column">
+    <div class="card">
+      <img src="/teampics/andrew.jpg" class="rounded-corners" alt="am" width=80 height=70>
+      <div class="container">
+        <h4>Andrew St. John</h4>
+        <li> Analytics Lead</li>
+        <li> B.S. Neuroscience </li>
+        <a href="https://www.linkedin.com/in/andrew-st-john-034879249/"><i class="fab fa-linkedin"></i></a>
+        <a href="https://www.utoronto.ca/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="mailto:andrew.stjohn@ca.ibm.com"><i class="fas fa-envelope"></i></a> 
+      </div>
+    </div>
+  </div>
+
+ </div>
+
 <p><h1>MLOR Mentorship</h1></p>
 <hr>
 <div class='row'>
