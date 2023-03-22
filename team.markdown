@@ -240,7 +240,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
  </div>
 
  <br/>
- 
+
 <p><h1>MLOR Alumni</h1></p>
 <hr>
 <div class='row'>
@@ -324,7 +324,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
  <div class="column">
     <div class="card">
-      <img src="/teampics/neelam.jpg" class="rounded-corners" alt="JL" width=50 height=70>
+      <img src="/teampics/neelam.jpg" class="rounded-corners" alt="JL" width=70 height=70>
       <div class="container">
         <h4>Neelam Patodia</h4>
         <li> Data Scientist</li>

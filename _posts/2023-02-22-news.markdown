@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Our paper was accepted by TMLR!"
+author: MLOR Team
+date:   2023-02-22 12:07 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+We are pleased to annouce that one of the papers <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> co-authored was accepted by <b>Transactions of Machine Learning Research (TMLR) 2022</b>. It is a joint work with <b>Abdurakhmon Sadiev, Nicolas Loizou, Peter Richtarik, and Martin Takáč</b>.
+{% highlight ruby %} 
+In this paper, they proposed an adaptive algorithm that can be used to dynamically and automatically determine "optimal" learning rates in training machine learning models. The novel algorithm proposed in this paper was demonstrated to outperform many state-of-the-art algorithms in extensive benchmark datasets.
+{% endhighlight %}
+
+Check out the paper <a href="https://openreview.net/pdf?id=WoXJFsJ6Zw">here</a>!!!
+
+
+<img src="/blogpics/paper_tmlr.png" alt="" style="width:80%;">
+
+
