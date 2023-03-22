@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Rucha Gurav joined the team as Software Developer (MLOR Mentorship)."
+author: MLOR Team
+date:   2023-03-21 12:25 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+We are happy to share that <b>Rucha Gurav</b> <a href="https://www.linkedin.com/in/rugurav/"><i class="fab fa-linkedin"></i></a> joined the team as Software Developer and prospective Machine Learning Engineer.
+
+<img src="/teampics/rucha.jpg" class="rounded-corners" alt="am" width=80 height=80>
+
+Rucha earned her Master of Science degree in Computer Science from The University of Texas at Arlington in 2021, with a specification in Artificial Intelligence,  and is now a Software Developer at IBM Cloud Object Storage. Prior to joining IBM, she served as a back-end developer at companies such as Nutrien and Sirius XM. During her Master's program, she completed several machine learning projects, and she is passionate of expanding her expertise in this field, as it has always intrigued her. In her leisure time, she enjoys working out at the gym and playing badminton for rejuvenation.  
+
+Rucha will work closely with her mentor <b>Zheng Shi</b><a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> and the rest of the team to bring more perspectives and technical expertises in our development and ML practice!
+
+Welcome, Rucha!

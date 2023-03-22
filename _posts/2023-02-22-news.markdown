@@ -20,7 +20,8 @@ img {
 
 We are pleased to annouce that one of the papers <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> co-authored was accepted by <b>Transactions of Machine Learning Research (TMLR) 2022</b>. It is a joint work with <b>Abdurakhmon Sadiev, Nicolas Loizou, Peter Richtarik, and Martin Takáč</b>.
 {% highlight ruby %} 
-In this paper, they proposed an adaptive algorithm that can be used to dynamically and automatically determine "optimal" learning rates in training machine learning models. The novel algorithm proposed in this paper was demonstrated to outperform many state-of-the-art algorithms in extensive benchmark datasets.
+In this paper, they proposed an adaptive algorithm that can be used to dynamically and \n automatically determine "optimal" learning rates in training machine learning models. \n
+The novel algorithm proposed in this paper was demonstrated to outperform many state-of-the-art \n algorithms in extensive benchmark datasets.
 {% endhighlight %}
 
 Check out the paper <a href="https://openreview.net/pdf?id=WoXJFsJ6Zw">here</a>!!!

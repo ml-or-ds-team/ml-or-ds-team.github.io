@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Ayush More joined the team as Machine Learning Engineer (MLOR Mentorship)."
+author: MLOR Team
+date:   2023-02-26 12:25 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+We are happy to share that <b>Ayush More</b> <a href="https://www.linkedin.com/in/ayushmore/"><i class="fab fa-linkedin"></i></a> joined the team as Machine Learning Engineer and prospective Full Stack Data Scientist.
+
+<img src="/teampics/ayush.PNG" class="rounded-corners" alt="am" width=80 height=80>
+
+Ayush earned his Bachelor of Science degree in Data Science from UC San Diego in 2022 and is now a Data Scientist at IBM Client Engineering. Prior to joining IBM, he served as President of the Data Science Student Society at UC San Diego, was a Teaching Assistant for undergraduate courses, and worked as a Software Engineering and research intern at Amazon, Cisco, and Qualcomm. During his final year, he focused on researching adversarial training within deep fusion models and their applications in autonomous vehicles. In his free time, Ayush enjoys spending time with friends, working out, playing basketball, and tinkering with fun passion projects using new technologies. 
+
+Ayush will work closely with his mentor <b>Zheng Shi</b><a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> and the rest of the team to push forward our capability in NLP and AI practice.
+
+Welcome, Ayush!
