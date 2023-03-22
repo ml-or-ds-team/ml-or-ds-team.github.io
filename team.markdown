@@ -51,7 +51,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<p><h1>Deep Learning \& ML Engineering</h1></p>
+<p><h1>Deep Learning &amp; ML Engineering</h1></p>
 <hr>
  <div class="row">
   <div class="column">
@@ -114,7 +114,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
   <div class="column">
     <div class="card">
-      <img src="/teampics/ayush.PNG" class="rounded-corners" alt="am" width=55 height=75>
+      <img src="/teampics/ayush.PNG" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Ayush More</h4>
         <li>Machine Learning Engineer</li>
@@ -129,7 +129,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
   
   <div class="column">
     <div class="card">
-      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=85 height=80>
+      <img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=70 height=70>
       <div class="container">
         <h4>Daniel Rodriguez</h4>
         <li>Software Engineer</li>
@@ -163,12 +163,13 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 </div>
 
 <br/>
+<hr>
 
-<p><h1>Data Analytics \& Engineering</h1></p>
+<p><h1>Data Analytics &amp; Engineering</h1></p>
 <div class='row'>
 <div class="column">
     <div class="card">
-      <img src="/teampics/joey.jpg" class="rounded-corners" alt="JL" width=75 height=95>
+      <img src="/teampics/joey.jpg" class="rounded-corners" alt="JL" width=50 height=70>
       <div class="container">
         <h4>Joey Badey</h4>
         <li> Data Scientist, Analytics</li>
@@ -183,7 +184,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 
 <div class="column">
     <div class="card">
-      <img src="/teampics/marilyn.jpeg" class="rounded-corners" alt="JL" width=75 height=95>
+      <img src="/teampics/marilyn.jpeg" class="rounded-corners" alt="JL" width=60 height=70>
       <div class="container">
         <h4>Marilyn G. Corral</h4>
         <li> Data Engineer</li>
@@ -210,7 +211,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
 <div class="row">
 <div class="column">
     <div class="card">
-      <img src="/teampics/marius.jpg" class="rounded-corners" alt="JL" width=70 height=95>
+      <img src="/teampics/marius.jpg" class="rounded-corners" alt="JL" width=50 height=70>
       <div class="container">
         <h4>Marius Pullig</h4>
         <li> Data Scientist, Analytics</li>
@@ -237,6 +238,9 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
   </div>
 
  </div>
+
+ <br/>
+<hr>
 
 <p><h1>MLOR Mentorship</h1></p>
 <hr>
