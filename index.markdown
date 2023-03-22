@@ -41,8 +41,8 @@ Rucha Gurav joined the team as Software Developer (MLOR Mentorship).</a></h3></p
 Ayush More joined the team as Machine Learning Engineer (MLOR Mentorship).</a></h3></p>
 <p><h3 style="color:Tomato;">Feburary 22, 2023. <a href='https://ml-or-ds-team.github.io/news/2023/02/22/news.html'>
 Our paper was accepted by TMLR!</a></h3></p>
-<p><h3 style="color:Tomato;">August 4, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/08/04/news.html'>
-Marius Pullig joined the team as Data Scientist in Analytics (MLOR mentorship).</a></h3></p>
-<p><h3 style="color:Tomato;">April 12, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/04/12/b-news.html'>
-MLOR team will speak at Supply Chain Digital Growth Expo 2022.</a></h3></p>
+<p><h3 style="color:Tomato;">January 24, 2023. <a href='https://ml-or-ds-team.github.io/news/2023/01/24/news.html'>
+Daniel and Zheng are invited to IBM Techn 2023.</a></h3></p>
+<p><h3 style="color:Tomato;">December 15, 2022. <a href='https://ml-or-ds-team.github.io/news/2022/12/05/b-news.html'>
+Ayrton is nominated as IBM AoT member.</a></h3></p>
 
