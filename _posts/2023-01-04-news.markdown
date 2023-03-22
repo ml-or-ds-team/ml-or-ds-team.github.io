@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Daniel and Zheng are invited to IBM Tech 2023."
+author: MLOR Team
+date:   2023-01-24 12:25 -0400
+categories: news
+---
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+img {
+  border: 2px solid #555;
+}
+</style>
+<script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
+
+<img src="/teampics/daniel.jpg" class="rounded-corners" alt="am" width=85 height=85>
+<img src="/teampics/new_touxiang.png" class="rounded-corners" alt="am" width=85 height=85>
+
+We are excited to share that <b>Daniel Rodriguez</b> <a href="https://www.linkedin.com/in/daniel-rodriguez-17567b18a/"><i class="fab fa-linkedin"></i></a> and <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> are both invited to IBM Tech 2023, a new technical recognition program that IBM CEO, Arvind, announced in November 2022. They are among the IBM's premier technical contributors, representing 1% of the total IBMer population, and this invitation is a testament to their hard works throughout 2022 to drive innovation, transform culture and accelerate growth. 
+
+IBM Tech 2023 is a moment for IBM to recognize honorees' accomplishments and invest in their growth. In February, the honorees will come together at one of the local events in Dallas, Dubai or Chengdu to celebrate, learn and look ahead to the roles in helping build what's next for IBM. 
+
+Congratulations, Daniel and Zheng!
