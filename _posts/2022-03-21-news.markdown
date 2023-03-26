@@ -26,7 +26,7 @@ img {
 </style>
 <script src="https://kit.fontawesome.com/7812f4f196.js" crossorigin="anonymous"></script>
 
-We are happy to share that <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> is invited to speak at <em><a href="https://iccopt2022.lehigh.edu/">International Conference on Continuous Optimization 2022</a> (ICCOPT)</em>. ICCOPT has been held by <em><a href="http://www.mathopt.org/">Machematical Optimization Society</a> (MOS)</em> once every three years since 2004, and it is one of the most important academic conferences in the optimization field. This year, the conference will be hosted by Lehigh University at Historic Bethlehem in Pennsylvania of the United States.
+We are happy to share that <b>Zheng Shi</b> <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a> is invited to speak at <em><a href="https://iccopt2022.lehigh.edu/">International Conference on Continuous Optimization 2022</a> (ICCOPT)</em>. ICCOPT has been held by <em><a href="https://www.mathopt.org/">Machematical Optimization Society</a> (MOS)</em> once every three years since 2004, and it is one of the most important academic conferences in the optimization field. This year, the conference will be hosted by Lehigh University at Historic Bethlehem in Pennsylvania of the United States.
 
 Zheng Shi will present his research work on developing an adaptive and tune-free algorithm in training machine learning models at the <em>cluster of <b>Optimization for Data Science and Machine Learning</b></em>. 
 

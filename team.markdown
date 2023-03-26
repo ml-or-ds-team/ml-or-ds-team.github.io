@@ -190,7 +190,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> Data Engineer</li>
         <li> B.S. Electronics and Communications Engineering </li>
         <a href="https://www.linkedin.com/in/marilyn-corral-1537b8115/?originalSubdomain=sg"><i class="fab fa-linkedin"></i></a>
-        <a href="http://www.plm.edu.ph/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://www.plm.edu.ph/"><i class="fas fa-graduation-cap"></i></a>
         <a href="corralmg@sg.ibm.com"><i class="fas fa-envelope"></i></a>
       </div>
     </div>
@@ -283,7 +283,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li> IBM Consulting</li>
         <li> M.Eng. Data Science </li>
         <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a>
-        <a href="http://www.centrale-casablanca.ma/fr/"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://www.centrale-casablanca.ma/fr/"><i class="fas fa-graduation-cap"></i></a>
         <!-- <a href="mailto:mehdi.el.haylali@gmail.com"><i class="fas fa-envelope"></i></a> -->
       </div>
     </div>
@@ -299,7 +299,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
           <li> Software Development Engineer</li>
           <li> Amazon</li>
           <li> B.S Data Science </li>
-          <a href="http://linkedin.com/in/aishwarya-bhupatiraju"><i class="fab fa-linkedin"></i></a>
+          <a href="https://linkedin.com/in/aishwarya-bhupatiraju"><i class="fab fa-linkedin"></i></a>
           <a href="https://www.berkeley.edu/"><i class="fas fa-graduation-cap"></i></a>
           <!-- <a href="Aishwarya.Bhupatiraju@ibm.com"><i class="fas fa-envelope"></i></a> -->
         </div>
