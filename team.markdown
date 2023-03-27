@@ -152,7 +152,7 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
         <li>Team Lead</li>
         <li> Ph.D. in Machine Learning and Optimization </li>
         <a href="https://www.linkedin.com/in/zhengmartinshi/"><i class="fab fa-linkedin"></i></a>
-        <!-- <a href="https://coral.ise.lehigh.edu/zhs310/"><i class="fas fa-home"></i></a> -->
+        <a href="https://www.zhengqxhs.com"><i class="fas fa-home"></i></a>
         <a href="https://engineering.lehigh.edu/ise/faculty/post-docs-and-phd-students"><i class="fas fa-graduation-cap"></i></a>
         <a href="https://github.com/shizheng-rlfresh"><i class="fab fa-github"></i></a>
         <a href="https://scholar.google.com/citations?user=YurlyCoAAAAJ&hl=en"><i class="ai ai-google-scholar-square"></i></a>
