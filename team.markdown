@@ -274,22 +274,6 @@ background-color: radial-gradient(circle, rgba(241,236,238,1) 0%, rgba(97,124,19
     </div>
  </div>
 
- <div class="column">
-    <div class="card">
-      <img src="/teampics/mehdi.jpg" class="rounded-corners" alt="JL" width=50 height=70>
-      <div class="container">
-        <h4>Mehdi El Haylali</h4>
-        <li> Data Scientist</li>
-        <li> IBM Consulting</li>
-        <li> M.Eng. Data Science </li>
-        <a href="https://www.linkedin.com/in/mehdi-el-haylali/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://www.centrale-casablanca.ma/fr/"><i class="fas fa-graduation-cap"></i></a>
-        <!-- <a href="mailto:mehdi.el.haylali@gmail.com"><i class="fas fa-envelope"></i></a> -->
-      </div>
-    </div>
- </div>
-</div>
-
 <div class='row'>
   <div class="column">
       <div class="card">
